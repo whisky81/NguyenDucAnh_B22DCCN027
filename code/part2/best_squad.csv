@@ -1,0 +1,168 @@
+,0
+Playing_Time_MP,Brighton
+Playing_Time_Starts,Brentford
+Playing_Time_Min,Crystal Palace
+Performance_Ast,Manchester City
+Performance_G-PK,Manchester City
+Performance_PK,Chelsea
+Performance_CrdY,Chelsea
+Performance_CrdR,Burnley
+Expected_xG_x,Liverpool
+Expected_npxG_x,Liverpool
+Expected_xAG,Liverpool
+Progression_PrgC,Manchester City
+Progression_PrgP,Liverpool
+Progression_PrgR,Tottenham
+Per_90_Minutes_Gls,Newcastle Utd
+Per_90_Minutes_Ast,Tottenham
+Per_90_Minutes_G+A,Newcastle Utd
+Per_90_Minutes_G-PK,Newcastle Utd
+Per_90_Minutes_G+A-PK,Newcastle Utd
+Per_90_Minutes_xG,Bournemouth
+Per_90_Minutes_xAG,Tottenham
+Per_90_Minutes_xG+xAG,Bournemouth
+Per_90_Minutes_npxG,Bournemouth
+Per_90_Minutes_npxG+xAG,Bournemouth
+Performance_GA,Sheffield Utd
+Performance_GA90,Bournemouth
+Performance_SoTA,Sheffield Utd
+Performance_Saves,West Ham
+Performance_Save%,Bournemouth
+Performance_W,Arsenal
+Performance_D,Brighton
+Performance_L,Sheffield Utd
+Performance_CS,Arsenal
+Performance_CS%,Manchester City
+Penalty_Kicks_PKatt,West Ham
+Penalty_Kicks_PKA,Everton
+Penalty_Kicks_PKsv,West Ham
+Penalty_Kicks_PKm,Sheffield Utd
+Penalty_Kicks_Save%,Aston Villa
+Standard_Gls,Manchester City
+Standard_Sh,Liverpool
+Standard_SoT,Liverpool
+Standard_SoT%,Brighton
+Standard_Sh/90,Bournemouth
+Standard_SoT/90,Everton
+Standard_G/Sh,Newcastle Utd
+Standard_G/SoT,Newcastle Utd
+Standard_Dist,Nott'ham Forest
+Standard_FK,Manchester City
+Standard_PK,Chelsea
+Standard_PKatt,Chelsea
+Expected_xG_y,Liverpool
+Expected_npxG_y,Liverpool
+Expected_npxG/Sh,Fulham
+Expected_G-xG,Manchester City
+Expected_np:G-xG,Manchester City
+Total_Cmp,Manchester City
+Total_Att,Manchester City
+Total_Cmp%,Brighton
+Total_TotDist,Manchester City
+Total_PrgDist,Liverpool
+Short_Cmp,Manchester City
+Short_Att,Manchester City
+Short_Cmp%,Nott'ham Forest
+Medium_Cmp,Manchester City
+Medium_Att,Manchester City
+Medium_Cmp%,Brighton
+Long_Cmp,Manchester City
+Long_Att,Everton
+Long_Cmp%,Nott'ham Forest
+Ast,Manchester City
+xAG,Liverpool
+Expected_xA,Manchester City
+Expected_A-xAG,Manchester City
+KP,Liverpool
+1/3,Manchester City
+PPA,Arsenal
+CrsPA,Brentford
+PrgP,Liverpool
+Pass_Types_Live,Manchester City
+Pass_Types_Dead,Tottenham
+Pass_Types_FK,Tottenham
+Pass_Types_TB,Chelsea
+Pass_Types_Sw,West Ham
+Pass_Types_Crs,Luton Town
+Pass_Types_TI,Everton
+Pass_Types_CK,Liverpool
+Corner_Kicks_In,Arsenal
+Corner_Kicks_Out,Liverpool
+Corner_Kicks_Str,Wolves
+Outcomes_Cmp,Manchester City
+Outcomes_Off,Liverpool
+Outcomes_Blocks,Tottenham
+SCA_SCA,Liverpool
+SCA_SCA90,Liverpool
+SCA_Types_PassLive,Liverpool
+SCA_Types_PassDead,Liverpool
+SCA_Types_TO,Chelsea
+SCA_Types_Sh,Liverpool
+SCA_Types_Fld,Manchester City
+SCA_Types_Def,Everton
+GCA_GCA,Manchester City
+GCA_GCA90,Tottenham
+GCA_Types_PassLive,Manchester City
+GCA_Types_PassDead,Arsenal
+GCA_Types_TO,Newcastle Utd
+GCA_Types_Sh,Luton Town
+GCA_Types_Fld,Arsenal
+GCA_Types_Def,Manchester Utd
+Tackles_Tkl,Crystal Palace
+Tackles_TklW,Crystal Palace
+Tackles_Def3rd,Nott'ham Forest
+Tackles_Mid3rd,Crystal Palace
+Tackles_Att3rd,Tottenham
+Challenges_Tkl,Tottenham
+Challenges_Att,Liverpool
+Challenges_Tkl%,Nott'ham Forest
+Challenges_Lost,Liverpool
+Blocks_Blocks,Manchester Utd
+Blocks_Sh,Manchester Utd
+Blocks_Pass,Liverpool
+Int,Brentford
+Tkl+Int,Crystal Palace
+Clr,Sheffield Utd
+Err,Chelsea
+Touches_Touches,Manchester City
+Touches_DefPen,Brighton
+Touches_Def3rd,Brighton
+Touches_Mid3rd,Manchester City
+Touches_Att3rd,Manchester City
+Touches_AttPen,Arsenal
+Touches_Live,Manchester City
+Take-Ons_Att,Chelsea
+Take-Ons_Succ,Wolves
+Take-Ons_Succ%,Wolves
+Take-Ons_Tkld,Bournemouth
+Take-Ons_Tkld%,Sheffield Utd
+Carries_Carries,Manchester City
+Carries_TotDist,Manchester City
+Carries_PrgDist,Manchester City
+Carries_PrgC,Manchester City
+Carries_1/3,Manchester City
+Carries_CPA,Manchester City
+Carries_Mis,Bournemouth
+Carries_Dis,Crystal Palace
+Receiving_Rec,Manchester City
+Receiving_PrgR,Tottenham
+Starts_Starts,Brentford
+Starts_Mn/Start,Nott'ham Forest
+Starts_Compl,West Ham
+Subs_Subs,Brighton
+Subs_Mn/Sub,Sheffield Utd
+Subs_unSub,Manchester City
+Team_Success_PPM,Manchester City
+Team_Success_onG,Manchester City
+Team_Success_onGA,Sheffield Utd
+Team_Success_(xG)_onxG,Liverpool
+Team_Success_(xG)_onxGA,Luton Town
+Performance_Fls,Bournemouth
+Performance_Fld,Tottenham
+Performance_Off,Liverpool
+Performance_Crs,Luton Town
+Performance_OG,Sheffield Utd
+Performance_Recov,Liverpool
+Aerial_Duels_Won,Everton
+Aerial_Duels_Lost,Burnley
+Aerial_Duels_Won%,Nott'ham Forest

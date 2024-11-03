@@ -1,0 +1,2688 @@
+               Player   Nation    Pos     Squad   Age
+492  Łukasz Fabiański   pl POL     GK  West Ham  38.0
+446      Thiago Silva   br BRA     DF   Chelsea  38.0
+47       Ashley Young  eng ENG  DF,MF   Everton  38.0
+
+               Player   Nation Pos          Squad   Age
+284       Lewis Miley  eng ENG  MF  Newcastle Utd  17.0
+277      Leon Chiwome  eng ENG  FW         Wolves  17.0
+197  Jack Hinshelwood  eng ENG  DF       Brighton  18.0
+
+
+
+
+
+
+
+              Player  Nation Pos       Squad  Playing_Time_MP
+62        Bernd Leno  de GER  GK      Fulham               38
+447  Thomas Kaminski  be BEL  GK  Luton Town               38
+477   William Saliba  fr FRA  DF     Arsenal               38
+
+          Player  Nation Pos        Squad  Playing_Time_MP
+359  Neal Maupay  fr FRA  FW      Everton                2
+188   Ionuț Radu  ro ROU  GK  Bournemouth                2
+14    Alex Iwobi  ng NGA  MF      Everton                2
+
+
+
+
+
+
+
+                Player   Nation Pos      Squad  Playing_Time_Starts
+477     William Saliba   fr FRA  DF    Arsenal                   38
+242    Jordan Pickford  eng ENG  GK    Everton                   38
+169  Guglielmo Vicario   it ITA  GK  Tottenham                   38
+
+              Player   Nation    Pos            Squad  Playing_Time_Starts
+259  Kalvin Phillips  eng ENG     MF  Manchester City                    0
+121       David Ozoh  eng ENG  MF,DF   Crystal Palace                    0
+323     Matt Ritchie  sct SCO  FW,MF    Newcastle Utd                    0
+
+
+
+
+
+
+
+          Player   Nation Pos           Squad  Playing_Time_Min
+33   André Onana   cm CMR  GK  Manchester Utd              3420
+328   Max Kilman  eng ENG  DF          Wolves              3420
+62    Bernd Leno   de GER  GK          Fulham              3420
+
+              Player   Nation    Pos            Squad  Playing_Time_Min
+235       John Fleck  sct SCO  MF,DF    Sheffield Utd                92
+259  Kalvin Phillips  eng ENG     MF  Manchester City                93
+191     Ivan Perišić   hr CRO     FW        Tottenham               103
+
+
+
+
+
+
+
+              Player   Nation    Pos            Squad  Performance_Ast
+378    Ollie Watkins  eng ENG     FW      Aston Villa               13
+101      Cole Palmer  eng ENG  FW,MF          Chelsea               11
+264  Kevin De Bruyne   be BEL     MF  Manchester City               10
+
+          Player   Nation    Pos           Squad  Performance_Ast
+235   John Fleck  sct SCO  MF,DF   Sheffield Utd                0
+33   André Onana   cm CMR     GK  Manchester Utd                0
+328   Max Kilman  eng ENG     DF          Wolves                0
+
+
+
+
+
+
+
+             Player   Nation    Pos            Squad  Performance_G-PK
+149  Erling Haaland   no NOR     FW  Manchester City                20
+378   Ollie Watkins  eng ENG     FW      Aston Villa                19
+390      Phil Foden  eng ENG  FW,MF  Manchester City                19
+
+            Player   Nation Pos            Squad  Performance_G-PK
+160    Fábio Silva   pt POR  FW           Wolves                 0
+360  Neco Williams  wls WAL  DF  Nott'ham Forest                 0
+476    Will Hughes  eng ENG  MF   Crystal Palace                 0
+
+
+
+
+
+
+
+             Player   Nation    Pos            Squad  Performance_PK
+101     Cole Palmer  eng ENG  FW,MF          Chelsea               9
+149  Erling Haaland   no NOR     FW  Manchester City               7
+74      Bukayo Saka  eng ENG     FW          Arsenal               6
+
+              Player   Nation    Pos            Squad  Performance_PK
+390       Phil Foden  eng ENG  FW,MF  Manchester City               0
+137          Ederson   br BRA     GK  Manchester City               0
+431  Sergio Reguilón   es ESP     DF   Manchester Utd               0
+
+
+
+
+
+
+
+            Player  Nation Pos        Squad  Performance_CrdY
+248  João Palhinha  pt POR  MF       Fulham                13
+305  Marcos Senesi  ar ARG  DF  Bournemouth                13
+308   Mario Lemina  ga GAB  MF       Wolves                12
+
+              Player   Nation Pos            Squad  Performance_CrdY
+408      Robin Olsen   se SWE  GK      Aston Villa                 0
+259  Kalvin Phillips  eng ENG  MF  Manchester City                 0
+188       Ionuț Radu   ro ROU  GK      Bournemouth                 0
+
+
+
+
+
+
+
+              Player   Nation Pos          Squad  Performance_CrdR
+400      Reece James  eng ENG  DF        Chelsea                 2
+488    Yves Bissouma   ml MLI  MF      Tottenham                 2
+375  Oliver McBurnie  sct SCO  FW  Sheffield Utd                 2
+
+             Player  Nation    Pos    Squad  Performance_CrdR
+343  Moisés Caicedo  ec ECU     MF  Chelsea                 0
+258     Kai Havertz  de GER  MF,FW  Arsenal                 0
+249      João Gomes  br BRA     MF   Wolves                 0
+
+
+
+
+
+
+
+             Player  Nation Pos            Squad  Expected_xG_x
+149  Erling Haaland  no NOR  FW  Manchester City           29.2
+341   Mohamed Salah  eg EGY  FW        Liverpool           21.2
+16   Alexander Isak  se SWE  FW    Newcastle Utd           20.3
+
+              Player   Nation Pos        Squad  Expected_xG_x
+102   Connor Roberts  wls WAL  DF      Burnley            0.0
+188       Ionuț Radu   ro ROU  GK  Bournemouth            0.0
+447  Thomas Kaminski   be BEL  GK   Luton Town            0.0
+
+
+
+
+
+
+
+              Player   Nation Pos            Squad  Expected_npxG_x
+149   Erling Haaland   no NOR  FW  Manchester City             22.9
+363  Nicolas Jackson   sn SEN  FW          Chelsea             18.6
+131  Dominic Solanke  eng ENG  FW      Bournemouth             17.2
+
+               Player   Nation    Pos           Squad  Expected_npxG_x
+148         Eric Dier  eng ENG     DF       Tottenham              0.0
+492  Łukasz Fabiański   pl POL     GK        West Ham              0.0
+220   Jaïro Riedewald   nl NED  MF,FW  Crystal Palace              0.0
+
+
+
+
+
+
+
+              Player  Nation    Pos           Squad  Expected_xAG
+436    Son Heung-min  kr KOR     FW       Tottenham          11.8
+341    Mohamed Salah  eg EGY     FW       Liverpool          11.8
+70   Bruno Fernandes  pt POR  MF,FW  Manchester Utd          11.8
+
+               Player   Nation Pos      Squad  Expected_xAG
+148         Eric Dier  eng ENG  DF  Tottenham           0.0
+492  Łukasz Fabiański   pl POL  GK   West Ham           0.0
+50    Bart Verbruggen   nl NED  GK   Brighton           0.0
+
+
+
+
+
+
+
+                 Player   Nation    Pos            Squad  Progression_PrgC
+225         Jeremy Doku   be BEL  FW,MF  Manchester City               218
+12   Alejandro Garnacho   ar ARG     FW   Manchester Utd               178
+74          Bukayo Saka  eng ENG     FW          Arsenal               155
+
+               Player  Nation Pos            Squad  Progression_PrgC
+361              Neto  br BRA  GK      Bournemouth                 0
+62         Bernd Leno  de GER  GK           Fulham                 0
+90   Cheikhou Kouyaté  sn SEN  MF  Nott'ham Forest                 0
+
+
+
+
+
+
+
+              Player  Nation    Pos            Squad  Progression_PrgP
+409            Rodri  es ESP     MF  Manchester City               376
+312  Martin Ødegaard  no NOR     MF          Arsenal               344
+384      Pascal Groß  de GER  MF,DF         Brighton               302
+
+              Player  Nation Pos          Squad  Progression_PrgP
+361             Neto  br BRA  GK    Bournemouth                 0
+62        Bernd Leno  de GER  GK         Fulham                 0
+311  Martin Dúbravka  sk SVK  GK  Newcastle Utd                 0
+
+
+
+
+
+
+
+                 Player   Nation    Pos      Squad  Progression_PrgR
+74          Bukayo Saka  eng ENG     FW    Arsenal               508
+124    Dejan Kulusevski   se SWE  FW,MF  Tottenham               388
+164  Gabriel Martinelli   br BRA     FW    Arsenal               345
+
+             Player  Nation Pos        Squad  Progression_PrgR
+361            Neto  br BRA  GK  Bournemouth                 0
+62       Bernd Leno  de GER  GK       Fulham                 0
+35   Angelo Ogbonna  it ITA  DF     West Ham                 0
+
+
+
+
+
+
+
+             Player  Nation    Pos            Squad  Per_90_Minutes_Gls
+423  Sasa Kalajdzic  at AUT     FW           Wolves                1.08
+227      Jhon Durán  co COL  FW,MF      Aston Villa                0.95
+149  Erling Haaland  no NOR     FW  Manchester City                0.95
+
+             Player  Nation Pos        Squad  Per_90_Minutes_Gls
+361            Neto  br BRA  GK  Bournemouth                 0.0
+62       Bernd Leno  de GER  GK       Fulham                 0.0
+35   Angelo Ogbonna  it ITA  DF     West Ham                 0.0
+
+
+
+
+
+
+
+              Player  Nation Pos            Squad  Per_90_Minutes_Ast
+301    Manor Solomon  il ISR  FW        Tottenham                0.90
+191     Ivan Perišić  hr CRO  FW        Tottenham                0.87
+264  Kevin De Bruyne  be BEL  MF  Manchester City                0.74
+
+              Player  Nation    Pos           Squad  Per_90_Minutes_Ast
+172  Hannibal Mejbri  tn TUN  MF,FW  Manchester Utd                 0.0
+361             Neto  br BRA     GK     Bournemouth                 0.0
+423   Sasa Kalajdzic  at AUT     FW          Wolves                 0.0
+
+
+
+
+
+
+
+             Player   Nation    Pos            Squad  Per_90_Minutes_G+A
+10     Adama Traoré   es ESP  FW,MF           Fulham                1.19
+101     Cole Palmer  eng ENG  FW,MF          Chelsea                1.14
+149  Erling Haaland   no NOR     FW  Manchester City                1.13
+
+             Player   Nation    Pos            Squad  Per_90_Minutes_G+A
+35   Angelo Ogbonna   it ITA     DF         West Ham                 0.0
+137         Ederson   br BRA     GK  Manchester City                 0.0
+121      David Ozoh  eng ENG  MF,DF   Crystal Palace                 0.0
+
+
+
+
+
+
+
+             Player   Nation    Pos        Squad  Per_90_Minutes_G-PK
+423  Sasa Kalajdzic   at AUT     FW       Wolves                 1.08
+227      Jhon Durán   co COL  FW,MF  Aston Villa                 0.95
+266   Kieffer Moore  wls WAL  FW,MF  Bournemouth                 0.83
+
+            Player  Nation    Pos       Squad  Per_90_Minutes_G-PK
+14      Alex Iwobi  ng NGA     MF     Everton                  0.0
+24    Amari'i Bell  jm JAM     DF  Luton Town                  0.0
+448  Thomas Partey  gh GHA  MF,DF     Arsenal                  0.0
+
+
+
+
+
+
+
+             Player  Nation    Pos        Squad  Per_90_Minutes_G+A-PK
+10     Adama Traoré  es ESP  FW,MF       Fulham                   1.19
+146       Enes Ünal  tr TUR  FW,MF  Bournemouth                   1.10
+423  Sasa Kalajdzic  at AUT     FW       Wolves                   1.08
+
+            Player  Nation    Pos       Squad  Per_90_Minutes_G+A-PK
+14      Alex Iwobi  ng NGA     MF     Everton                    0.0
+24    Amari'i Bell  jm JAM     DF  Luton Town                    0.0
+448  Thomas Partey  gh GHA  MF,DF     Arsenal                    0.0
+
+
+
+
+
+
+
+             Player   Nation    Pos            Squad  Per_90_Minutes_xG
+266   Kieffer Moore  wls WAL  FW,MF      Bournemouth               1.23
+359     Neal Maupay   fr FRA     FW          Everton               1.16
+149  Erling Haaland   no NOR     FW  Manchester City               1.03
+
+               Player   Nation Pos        Squad  Per_90_Minutes_xG
+492  Łukasz Fabiański   pl POL  GK     West Ham                0.0
+148         Eric Dier  eng ENG  DF    Tottenham                0.0
+451    Tim Iroegbunam  eng ENG  MF  Aston Villa                0.0
+
+
+
+
+
+
+
+              Player  Nation Pos            Squad  Per_90_Minutes_xAG
+264  Kevin De Bruyne  be BEL  MF  Manchester City                0.85
+191     Ivan Perišić  hr CRO  FW        Tottenham                0.75
+423   Sasa Kalajdzic  at AUT  FW           Wolves                0.52
+
+               Player   Nation Pos        Squad  Per_90_Minutes_xAG
+492  Łukasz Fabiański   pl POL  GK     West Ham                 0.0
+148         Eric Dier  eng ENG  DF    Tottenham                 0.0
+451    Tim Iroegbunam  eng ENG  MF  Aston Villa                 0.0
+
+
+
+
+
+
+
+             Player   Nation    Pos            Squad  Per_90_Minutes_xG+xAG
+266   Kieffer Moore  wls WAL  FW,MF      Bournemouth                   1.44
+359     Neal Maupay   fr FRA     FW          Everton                   1.22
+149  Erling Haaland   no NOR     FW  Manchester City                   1.18
+
+               Player   Nation Pos      Squad  Per_90_Minutes_xG+xAG
+492  Łukasz Fabiański   pl POL  GK   West Ham                    0.0
+148         Eric Dier  eng ENG  DF  Tottenham                    0.0
+247           José Sá   pt POR  GK     Wolves                    0.0
+
+
+
+
+
+
+
+             Player   Nation    Pos            Squad  Per_90_Minutes_npxG
+266   Kieffer Moore  wls WAL  FW,MF      Bournemouth                 1.23
+359     Neal Maupay   fr FRA     FW          Everton                 1.16
+149  Erling Haaland   no NOR     FW  Manchester City                 0.81
+
+               Player  Nation Pos        Squad  Per_90_Minutes_npxG
+492  Łukasz Fabiański  pl POL  GK     West Ham                  0.0
+20            Alisson  br BRA  GK    Liverpool                  0.0
+361              Neto  br BRA  GK  Bournemouth                  0.0
+
+
+
+
+
+
+
+             Player   Nation    Pos        Squad  Per_90_Minutes_npxG+xAG
+266   Kieffer Moore  wls WAL  FW,MF  Bournemouth                     1.44
+359     Neal Maupay   fr FRA     FW      Everton                     1.22
+423  Sasa Kalajdzic   at AUT     FW       Wolves                     1.09
+
+               Player  Nation Pos        Squad  Per_90_Minutes_npxG+xAG
+492  Łukasz Fabiański  pl POL  GK     West Ham                      0.0
+20            Alisson  br BRA  GK    Liverpool                      0.0
+361              Neto  br BRA  GK  Bournemouth                      0.0
+
+
+
+
+
+
+
+              Player   Nation Pos          Squad  Performance_GA
+447  Thomas Kaminski   be BEL  GK     Luton Town            85.0
+475  Wes Foderingham  eng ENG  GK  Sheffield Utd            79.0
+309     Mark Flekken   nl NED  GK      Brentford            63.0
+
+               Player   Nation Pos        Squad  Performance_GA
+449  Thomas Strakosha   al ALB  GK    Brentford             2.0
+310      Mark Travers   ie IRL  GK  Bournemouth             5.0
+1      Aaron Ramsdale  eng ENG  GK      Arsenal             5.0
+
+
+
+
+
+
+
+          Player  Nation Pos          Squad  Performance_GA90
+188   Ionuț Radu  ro ROU  GK    Bournemouth              3.50
+193    Ivo Grbić  hr CRO  GK  Sheffield Utd              2.92
+408  Robin Olsen  se SWE  GK    Aston Villa              2.89
+
+             Player   Nation Pos            Squad  Performance_GA90
+118      David Raya   es ESP  GK          Arsenal              0.75
+1    Aaron Ramsdale  eng ENG  GK          Arsenal              0.83
+137         Ederson   br BRA  GK  Manchester City              0.87
+
+
+
+
+
+
+
+              Player   Nation Pos           Squad  Performance_SoTA
+447  Thomas Kaminski   be BEL  GK      Luton Town             221.0
+475  Wes Foderingham  eng ENG  GK   Sheffield Utd             204.0
+33       André Onana   cm CMR  GK  Manchester Utd             203.0
+
+               Player   Nation Pos        Squad  Performance_SoTA
+449  Thomas Strakosha   al ALB  GK    Brentford               8.0
+188        Ionuț Radu   ro ROU  GK  Bournemouth              11.0
+1      Aaron Ramsdale  eng ENG  GK      Arsenal              14.0
+
+
+
+
+
+
+
+              Player  Nation Pos           Squad  Performance_Saves
+33       André Onana  cm CMR  GK  Manchester Utd              146.0
+447  Thomas Kaminski  be BEL  GK      Luton Town              140.0
+21   Alphonse Areola  fr FRA  GK        West Ham              136.0
+
+               Player   Nation Pos        Squad  Performance_Saves
+188        Ionuț Radu   ro ROU  GK  Bournemouth                4.0
+449  Thomas Strakosha   al ALB  GK    Brentford                6.0
+111    Daniel Bentley  eng ENG  GK       Wolves                8.0
+
+
+
+
+
+
+
+               Player  Nation Pos        Squad  Performance_Save%
+44     Arijanet Muric  xk KVX  GK      Burnley               80.8
+310      Mark Travers  ie IRL  GK  Bournemouth               77.8
+449  Thomas Strakosha  al ALB  GK    Brentford               75.0
+
+                   Player   Nation Pos            Squad  Performance_Save%
+188            Ionuț Radu   ro ROU  GK      Bournemouth               36.4
+370  Odisseas Vlachodimos   gr GRE  GK  Nott'ham Forest               50.0
+111        Daniel Bentley  eng ENG  GK           Wolves               53.3
+
+
+
+
+
+
+
+                Player  Nation Pos            Squad  Performance_W
+137            Ederson  br BRA  GK  Manchester City           24.0
+118         David Raya  es ESP  GK          Arsenal           23.0
+169  Guglielmo Vicario  it ITA  GK        Tottenham           20.0
+
+               Player   Nation Pos          Squad  Performance_W
+193         Ivo Grbić   hr CRO  GK  Sheffield Utd            0.0
+449  Thomas Strakosha   al ALB  GK      Brentford            0.0
+111    Daniel Bentley  eng ENG  GK         Wolves            1.0
+
+
+
+
+
+
+
+              Player   Nation Pos        Squad  Performance_D
+242  Jordan Pickford  eng ENG  GK      Everton            9.0
+21   Alphonse Areola   fr FRA  GK     West Ham            9.0
+361             Neto   br BRA  GK  Bournemouth            9.0
+
+               Player   Nation Pos        Squad  Performance_D
+449  Thomas Strakosha   al ALB  GK    Brentford            0.0
+111    Daniel Bentley  eng ENG  GK       Wolves            0.0
+188        Ionuț Radu   ro ROU  GK  Bournemouth            0.0
+
+
+
+
+
+
+
+              Player   Nation Pos          Squad  Performance_L
+447  Thomas Kaminski   be BEL  GK     Luton Town           24.0
+475  Wes Foderingham  eng ENG  GK  Sheffield Utd           22.0
+212   James Trafford  eng ENG  GK        Burnley           20.0
+
+                Player   Nation Pos            Squad  Performance_L
+437      Stefan Ortega   de GER  GK  Manchester City            0.0
+1       Aaron Ramsdale  eng ENG  GK          Arsenal            0.0
+81   Caoimhín Kelleher   ie IRL  GK        Liverpool            0.0
+
+
+
+
+
+
+
+              Player   Nation Pos            Squad  Performance_CS
+118       David Raya   es ESP  GK          Arsenal            16.0
+242  Jordan Pickford  eng ENG  GK          Everton            13.0
+137          Ederson   br BRA  GK  Manchester City            10.0
+
+               Player  Nation Pos        Squad  Performance_CS
+449  Thomas Strakosha  al ALB  GK    Brentford             0.0
+188        Ionuț Radu  ro ROU  GK  Bournemouth             0.0
+408       Robin Olsen  se SWE  GK  Aston Villa             0.0
+
+
+
+
+
+
+
+            Player  Nation Pos            Squad  Performance_CS%
+437  Stefan Ortega  de GER  GK  Manchester City             60.0
+310   Mark Travers  ie IRL  GK      Bournemouth             50.0
+118     David Raya  es ESP  GK          Arsenal             50.0
+
+               Player  Nation Pos        Squad  Performance_CS%
+449  Thomas Strakosha  al ALB  GK    Brentford              0.0
+188        Ionuț Radu  ro ROU  GK  Bournemouth              0.0
+408       Robin Olsen  se SWE  GK  Aston Villa              0.0
+
+
+
+
+
+
+
+              Player   Nation Pos    Squad  Penalty_Kicks_PKatt
+242  Jordan Pickford  eng ENG  GK  Everton                  8.0
+247          José Sá   pt POR  GK   Wolves                  8.0
+62        Bernd Leno   de GER  GK   Fulham                  8.0
+
+               Player   Nation Pos          Squad  Penalty_Kicks_PKatt
+449  Thomas Strakosha   al ALB  GK      Brentford                  0.0
+188        Ionuț Radu   ro ROU  GK    Bournemouth                  0.0
+362         Nick Pope  eng ENG  GK  Newcastle Utd                  0.0
+
+
+
+
+
+
+
+              Player   Nation Pos    Squad  Penalty_Kicks_PKA
+242  Jordan Pickford  eng ENG  GK  Everton                8.0
+247          José Sá   pt POR  GK   Wolves                8.0
+62        Bernd Leno   de GER  GK   Fulham                8.0
+
+               Player   Nation Pos          Squad  Penalty_Kicks_PKA
+449  Thomas Strakosha   al ALB  GK      Brentford                0.0
+188        Ionuț Radu   ro ROU  GK    Bournemouth                0.0
+362         Nick Pope  eng ENG  GK  Newcastle Utd                0.0
+
+
+
+
+
+
+
+              Player  Nation Pos          Squad  Penalty_Kicks_PKsv
+21   Alphonse Areola  fr FRA  GK       West Ham                 2.0
+407   Robert Sánchez  es ESP  GK        Chelsea                 1.0
+311  Martin Dúbravka  sk SVK  GK  Newcastle Utd                 1.0
+
+               Player   Nation Pos          Squad  Penalty_Kicks_PKsv
+449  Thomas Strakosha   al ALB  GK      Brentford                 0.0
+188        Ionuț Radu   ro ROU  GK    Bournemouth                 0.0
+362         Nick Pope  eng ENG  GK  Newcastle Utd                 0.0
+
+
+
+
+
+
+
+              Player   Nation Pos          Squad  Penalty_Kicks_PKm
+475  Wes Foderingham  eng ENG  GK  Sheffield Utd                1.0
+491   Đorđe Petrović   rs SRB  GK        Chelsea                1.0
+193        Ivo Grbić   hr CRO  GK  Sheffield Utd                1.0
+
+               Player   Nation Pos          Squad  Penalty_Kicks_PKm
+449  Thomas Strakosha   al ALB  GK      Brentford                0.0
+188        Ionuț Radu   ro ROU  GK    Bournemouth                0.0
+362         Nick Pope  eng ENG  GK  Newcastle Utd                0.0
+
+
+
+
+
+
+
+             Player  Nation Pos        Squad  Penalty_Kicks_Save%
+408     Robin Olsen  se SWE  GK  Aston Villa                100.0
+44   Arijanet Muric  xk KVX  GK      Burnley                 50.0
+407  Robert Sánchez  es ESP  GK      Chelsea                 33.3
+
+                   Player  Nation Pos            Squad  Penalty_Kicks_Save%
+327             Matz Sels  be BEL  GK  Nott'ham Forest                  0.0
+310          Mark Travers  ie IRL  GK      Bournemouth                  0.0
+370  Odisseas Vlachodimos  gr GRE  GK  Nott'ham Forest                  0.0
+
+
+
+
+
+
+
+             Player   Nation    Pos            Squad  Standard_Gls
+149  Erling Haaland   no NOR     FW  Manchester City            27
+101     Cole Palmer  eng ENG  FW,MF          Chelsea            22
+16   Alexander Isak   se SWE     FW    Newcastle Utd            21
+
+             Player   Nation    Pos           Squad  Standard_Gls
+121      David Ozoh  eng ENG  MF,DF  Crystal Palace             0
+451  Tim Iroegbunam  eng ENG     MF     Aston Villa             0
+369  Odeluga Offiah  eng ENG     DF        Brighton             0
+
+
+
+
+
+
+
+             Player  Nation Pos            Squad  Standard_Sh
+149  Erling Haaland  no NOR  FW  Manchester City          113
+117    Darwin Núñez  uy URU  FW        Liverpool          107
+341   Mohamed Salah  eg EGY  FW        Liverpool          107
+
+             Player   Nation    Pos           Squad  Standard_Sh
+121      David Ozoh  eng ENG  MF,DF  Crystal Palace            0
+451  Tim Iroegbunam  eng ENG     MF     Aston Villa            0
+369  Odeluga Offiah  eng ENG     DF        Brighton            0
+
+
+
+
+
+
+
+             Player   Nation    Pos            Squad  Standard_SoT
+149  Erling Haaland   no NOR     FW  Manchester City            50
+390      Phil Foden  eng ENG  FW,MF  Manchester City            48
+341   Mohamed Salah   eg EGY     FW        Liverpool            47
+
+             Player   Nation    Pos           Squad  Standard_SoT
+121      David Ozoh  eng ENG  MF,DF  Crystal Palace             0
+451  Tim Iroegbunam  eng ENG     MF     Aston Villa             0
+369  Odeluga Offiah  eng ENG     DF        Brighton             0
+
+
+
+
+
+
+
+           Player  Nation    Pos          Squad  Standard_SoT%
+450      Tim Ream  us USA     DF         Fulham          100.0
+75   Bénie Traoré  ci CIV  FW,MF  Sheffield Utd          100.0
+24   Amari'i Bell  jm JAM     DF     Luton Town          100.0
+
+            Player   Nation Pos           Squad  Standard_SoT%
+319  Matheus Nunes   pt POR  MF          Wolves            0.0
+233      Joel Ward  eng ENG  DF  Crystal Palace            0.0
+239    Jonny Evans  nir NIR  DF  Manchester Utd            0.0
+
+
+
+
+
+
+
+            Player   Nation    Pos        Squad  Standard_Sh/90
+146      Enes Ünal   tr TUR  FW,MF  Bournemouth            6.31
+254   Julio Enciso   py PAR  MF,FW     Brighton            5.31
+266  Kieffer Moore  wls WAL  FW,MF  Bournemouth            5.00
+
+             Player   Nation    Pos           Squad  Standard_Sh/90
+121      David Ozoh  eng ENG  MF,DF  Crystal Palace             0.0
+451  Tim Iroegbunam  eng ENG     MF     Aston Villa             0.0
+369  Odeluga Offiah  eng ENG     DF        Brighton             0.0
+
+
+
+
+
+
+
+           Player   Nation    Pos          Squad  Standard_SoT/90
+359   Neal Maupay   fr FRA     FW        Everton             3.24
+323  Matt Ritchie  sct SCO  FW,MF  Newcastle Utd             2.81
+146     Enes Ünal   tr TUR  FW,MF    Bournemouth             2.20
+
+             Player   Nation    Pos           Squad  Standard_SoT/90
+121      David Ozoh  eng ENG  MF,DF  Crystal Palace              0.0
+451  Tim Iroegbunam  eng ENG     MF     Aston Villa              0.0
+369  Odeluga Offiah  eng ENG     DF        Brighton              0.0
+
+
+
+
+
+
+
+               Player  Nation    Pos           Squad  Standard_G/Sh
+450          Tim Ream  us USA     DF          Fulham            1.0
+172   Hannibal Mejbri  tn TUN  MF,FW  Manchester Utd            1.0
+432  Shandon Baptiste  gd GRN     MF       Brentford            0.5
+
+          Player   Nation Pos           Squad  Standard_G/Sh
+239  Jonny Evans  nir NIR  DF  Manchester Utd            0.0
+362    Nick Pope  eng ENG  GK   Newcastle Utd            0.0
+7     Adam Smith  eng ENG  DF     Bournemouth            0.0
+
+
+
+
+
+
+
+            Player  Nation    Pos            Squad  Standard_G/SoT
+263     Kenny Tete  nl NED     DF           Fulham             1.0
+332  Maxwel Cornet  ci CIV  MF,FW         West Ham             1.0
+380     Oscar Bobb  no NOR  FW,MF  Manchester City             1.0
+
+                Player   Nation Pos           Squad  Standard_G/SoT
+2    Aaron Wan-Bissaka  eng ENG  DF  Manchester Utd             0.0
+126       Diego Carlos   br BRA  DF     Aston Villa             0.0
+66     Boubacar Kamara   fr FRA  MF     Aston Villa             0.0
+
+
+
+
+
+
+
+             Player   Nation Pos            Squad  Standard_Dist
+374  Oliver Norwood  nir NIR  MF    Sheffield Utd           32.9
+273     Kyle Walker  eng ENG  DF  Manchester City           29.4
+343  Moisés Caicedo   ec ECU  MF          Chelsea           29.0
+
+                 Player   Nation Pos            Squad  Standard_Dist
+450            Tim Ream   us USA  DF           Fulham            1.3
+30   Andrew Omobamidele   ie IRL  DF  Nott'ham Forest            5.1
+239         Jonny Evans  nir NIR  DF   Manchester Utd            5.4
+
+
+
+
+
+
+
+                Player   Nation    Pos            Squad  Standard_FK
+208  James Ward-Prowse  eng ENG     MF         West Ham           16
+255     Julián Álvarez   ar ARG  MF,FW  Manchester City           13
+135       Eberechi Eze  eng ENG  MF,FW   Crystal Palace           12
+
+                  Player  Nation    Pos    Squad  Standard_FK
+343       Moisés Caicedo  ec ECU     MF  Chelsea            0
+373  Oleksandr Zinchenko  ua UKR     DF  Arsenal            0
+60         Benson Manuel  ao ANG  MF,FW  Burnley            0
+
+
+
+
+
+
+
+             Player   Nation    Pos            Squad  Standard_PK
+101     Cole Palmer  eng ENG  FW,MF          Chelsea            9
+149  Erling Haaland   no NOR     FW  Manchester City            7
+74      Bukayo Saka  eng ENG     FW          Arsenal            6
+
+           Player   Nation Pos      Squad  Standard_PK
+243  Jordan Beyer   de GER  DF    Burnley            0
+148     Eric Dier  eng ENG  DF  Tottenham            0
+387   Pedro Porro   es ESP  DF  Tottenham            0
+
+
+
+
+
+
+
+             Player   Nation    Pos            Squad  Standard_PKatt
+101     Cole Palmer  eng ENG  FW,MF          Chelsea               9
+149  Erling Haaland   no NOR     FW  Manchester City               8
+341   Mohamed Salah   eg EGY     FW        Liverpool               7
+
+                Player   Nation    Pos           Squad  Standard_PKatt
+155  Facundo Pellistri   uy URU  FW,MF  Manchester Utd               0
+369     Odeluga Offiah  eng ENG     DF        Brighton               0
+481     Willy Kambwala   fr FRA     DF  Manchester Utd               0
+
+
+
+
+
+
+
+             Player  Nation Pos            Squad  Expected_xG_y
+149  Erling Haaland  no NOR  FW  Manchester City           29.2
+341   Mohamed Salah  eg EGY  FW        Liverpool           21.2
+16   Alexander Isak  se SWE  FW    Newcastle Utd           20.3
+
+                Player  Nation Pos      Squad  Expected_xG_y
+278   Lesley Ugochukwu  fr FRA  MF    Chelsea            0.0
+492   Łukasz Fabiański  pl POL  GK   West Ham            0.0
+81   Caoimhín Kelleher  ie IRL  GK  Liverpool            0.0
+
+
+
+
+
+
+
+              Player   Nation Pos            Squad  Expected_npxG_y
+149   Erling Haaland   no NOR  FW  Manchester City             22.9
+363  Nicolas Jackson   sn SEN  FW          Chelsea             18.6
+131  Dominic Solanke  eng ENG  FW      Bournemouth             17.2
+
+                Player  Nation Pos      Squad  Expected_npxG_y
+278   Lesley Ugochukwu  fr FRA  MF    Chelsea              0.0
+492   Łukasz Fabiański  pl POL  GK   West Ham              0.0
+81   Caoimhín Kelleher  ie IRL  GK  Liverpool              0.0
+
+
+
+
+
+
+
+                 Player  Nation Pos        Squad  Expected_npxG/Sh
+450            Tim Ream  us USA  DF       Fulham              0.96
+432    Shandon Baptiste  gd GRN  MF    Brentford              0.45
+274  Leander Dendoncker  be BEL  MF  Aston Villa              0.37
+
+              Player   Nation    Pos           Squad  Expected_npxG/Sh
+165   George Baldock   gr GRE     DF   Sheffield Utd              0.02
+220  Jaïro Riedewald   nl NED  MF,FW  Crystal Palace              0.02
+294        Luke Shaw  eng ENG     DF  Manchester Utd              0.02
+
+
+
+
+
+
+
+                   Player   Nation    Pos            Squad  Expected_G-xG
+390            Phil Foden  eng ENG  FW,MF  Manchester City            8.7
+77     Callum Hudson-Odoi  eng ENG  FW,MF  Nott'ham Forest            5.3
+221  Jean-Philippe Mateta   fr FRA     FW   Crystal Palace            5.1
+
+                    Player   Nation Pos      Squad  Expected_G-xG
+130  Dominic Calvert-Lewin  eng ENG  FW    Everton           -5.9
+117           Darwin Núñez   uy URU  FW  Liverpool           -5.3
+68         Brennan Johnson  wls WAL  FW  Tottenham           -5.3
+
+
+
+
+
+
+
+                 Player   Nation    Pos            Squad  Expected_np:G-xG
+390          Phil Foden  eng ENG  FW,MF  Manchester City               8.7
+77   Callum Hudson-Odoi  eng ENG  FW,MF  Nott'ham Forest               5.3
+127          Diogo Jota   pt POR     FW        Liverpool               4.7
+
+                    Player   Nation Pos      Squad  Expected_np:G-xG
+130  Dominic Calvert-Lewin  eng ENG  FW    Everton              -6.4
+68         Brennan Johnson  wls WAL  FW  Tottenham              -5.3
+363        Nicolas Jackson   sn SEN  FW    Chelsea              -4.6
+
+
+
+
+
+
+
+          Player   Nation    Pos            Squad  Total_Cmp
+409        Rodri   es ESP     MF  Manchester City       3365
+280   Lewis Dunk  eng ENG     DF         Brighton       2977
+384  Pascal Groß   de GER  MF,DF         Brighton       2774
+
+           Player   Nation Pos    Squad  Total_Cmp
+277  Leon Chiwome  eng ENG  FW   Wolves         19
+359   Neal Maupay   fr FRA  FW  Everton         22
+14     Alex Iwobi   ng NGA  MF  Everton         27
+
+
+
+
+
+
+
+          Player   Nation    Pos            Squad  Total_Att
+409        Rodri   es ESP     MF  Manchester City       3656
+280   Lewis Dunk  eng ENG     DF         Brighton       3233
+384  Pascal Groß   de GER  MF,DF         Brighton       3223
+
+              Player   Nation    Pos           Squad  Total_Att
+277     Leon Chiwome  eng ENG     FW          Wolves         22
+359      Neal Maupay   fr FRA     FW         Everton         26
+172  Hannibal Mejbri   tn TUN  MF,FW  Manchester Utd         38
+
+
+
+
+
+
+
+            Player   Nation    Pos            Squad  Total_Cmp%
+446   Thiago Silva   br BRA     DF          Chelsea        94.7
+121     David Ozoh  eng ENG  MF,DF   Crystal Palace        94.1
+316  Mateo Kovačić   hr CRO     MF  Manchester City        94.0
+
+            Player   Nation Pos          Squad  Total_Cmp%
+193      Ivo Grbić   hr CRO  GK  Sheffield Utd        49.7
+478  William Osula   dk DEN  FW  Sheffield Utd        52.7
+192     Ivan Toney  eng ENG  FW      Brentford        53.5
+
+
+
+
+
+
+
+              Player   Nation Pos            Squad  Total_TotDist
+409            Rodri   es ESP  MF  Manchester City          57256
+280       Lewis Dunk  eng ENG  DF         Brighton          50791
+469  Virgil van Dijk   nl NED  DF        Liverpool          49290
+
+            Player   Nation    Pos        Squad  Total_TotDist
+277   Leon Chiwome  eng ENG     FW       Wolves            244
+266  Kieffer Moore  wls WAL  FW,MF  Bournemouth            272
+359    Neal Maupay   fr FRA     FW      Everton            353
+
+
+
+
+
+
+
+              Player   Nation Pos       Squad  Total_PrgDist
+242  Jordan Pickford  eng ENG  GK     Everton          26388
+309     Mark Flekken   nl NED  GK   Brentford          22385
+447  Thomas Kaminski   be BEL  GK  Luton Town          22188
+
+            Player   Nation Pos    Squad  Total_PrgDist
+359    Neal Maupay   fr FRA  FW  Everton             14
+355  Nathan Fraser   ie IRL  FW   Wolves             45
+277   Leon Chiwome  eng ENG  FW   Wolves             59
+
+
+
+
+
+
+
+          Player   Nation    Pos            Squad  Short_Cmp
+409        Rodri   es ESP     MF  Manchester City       1676
+384  Pascal Groß   de GER  MF,DF         Brighton       1583
+280   Lewis Dunk  eng ENG     DF         Brighton       1343
+
+               Player   Nation Pos        Squad  Short_Cmp
+449  Thomas Strakosha   al ALB  GK    Brentford          6
+310      Mark Travers   ie IRL  GK  Bournemouth         10
+277      Leon Chiwome  eng ENG  FW       Wolves         12
+
+
+
+
+
+
+
+          Player   Nation    Pos            Squad  Short_Att
+409        Rodri   es ESP     MF  Manchester City       1774
+384  Pascal Groß   de GER  MF,DF         Brighton       1674
+280   Lewis Dunk  eng ENG     DF         Brighton       1382
+
+               Player   Nation Pos        Squad  Short_Att
+449  Thomas Strakosha   al ALB  GK    Brentford          6
+310      Mark Travers   ie IRL  GK  Bournemouth         10
+277      Leon Chiwome  eng ENG  FW       Wolves         13
+
+
+
+
+
+
+
+               Player  Nation Pos        Squad  Short_Cmp%
+449  Thomas Strakosha  al ALB  GK    Brentford       100.0
+310      Mark Travers  ie IRL  GK  Bournemouth       100.0
+492  Łukasz Fabiański  pl POL  GK     West Ham       100.0
+
+               Player   Nation Pos          Squad  Short_Cmp%
+478     William Osula   dk DEN  FW  Sheffield Utd        58.9
+487  Youssef Chermiti   pt POR  FW        Everton        59.4
+192        Ivan Toney  eng ENG  FW      Brentford        61.6
+
+
+
+
+
+
+
+              Player   Nation Pos      Squad  Medium_Cmp
+469  Virgil van Dijk   nl NED  DF  Liverpool        1343
+280       Lewis Dunk  eng ENG  DF   Brighton        1340
+477   William Saliba   fr FRA  DF    Arsenal        1298
+
+            Player   Nation    Pos        Squad  Medium_Cmp
+266  Kieffer Moore  wls WAL  FW,MF  Bournemouth           4
+332  Maxwel Cornet   ci CIV  MF,FW     West Ham           6
+277   Leon Chiwome  eng ENG     FW       Wolves           6
+
+
+
+
+
+
+
+              Player   Nation Pos      Squad  Medium_Att
+280       Lewis Dunk  eng ENG  DF   Brighton        1417
+469  Virgil van Dijk   nl NED  DF  Liverpool        1412
+477   William Saliba   fr FRA  DF    Arsenal        1373
+
+            Player   Nation    Pos        Squad  Medium_Att
+277   Leon Chiwome  eng ENG     FW       Wolves           6
+266  Kieffer Moore  wls WAL  FW,MF  Bournemouth           8
+332  Maxwel Cornet   ci CIV  MF,FW     West Ham           8
+
+
+
+
+
+
+
+           Player   Nation    Pos           Squad  Medium_Cmp%
+277  Leon Chiwome  eng ENG     FW          Wolves        100.0
+310  Mark Travers   ie IRL     GK     Bournemouth        100.0
+121    David Ozoh  eng ENG  MF,DF  Crystal Palace        100.0
+
+                    Player   Nation    Pos          Squad  Medium_Cmp%
+478          William Osula   dk DEN     FW  Sheffield Utd         40.0
+402         Rhian Brewster  eng ENG  FW,MF  Sheffield Utd         45.5
+130  Dominic Calvert-Lewin  eng ENG     FW        Everton         49.5
+
+
+
+
+
+
+
+              Player   Nation Pos       Squad  Long_Cmp
+242  Jordan Pickford  eng ENG  GK     Everton       461
+309     Mark Flekken   nl NED  GK   Brentford       394
+447  Thomas Kaminski   be BEL  GK  Luton Town       362
+
+             Player   Nation    Pos        Squad  Long_Cmp
+266   Kieffer Moore  wls WAL  FW,MF  Bournemouth         0
+451  Tim Iroegbunam  eng ENG     MF  Aston Villa         0
+355   Nathan Fraser   ie IRL     FW       Wolves         0
+
+
+
+
+
+
+
+              Player   Nation Pos       Squad  Long_Att
+242  Jordan Pickford  eng ENG  GK     Everton      1031
+447  Thomas Kaminski   be BEL  GK  Luton Town       937
+309     Mark Flekken   nl NED  GK   Brentford       832
+
+             Player   Nation    Pos        Squad  Long_Att
+266   Kieffer Moore  wls WAL  FW,MF  Bournemouth         0
+451  Tim Iroegbunam  eng ENG     MF  Aston Villa         0
+355   Nathan Fraser   ie IRL     FW       Wolves         0
+
+
+
+
+
+
+
+              Player  Nation    Pos          Squad  Long_Cmp%
+75      Bénie Traoré  ci CIV  FW,MF  Sheffield Utd      100.0
+359      Neal Maupay  fr FRA     FW        Everton      100.0
+82   Carlos Vinícius  br BRA     FW         Fulham      100.0
+
+             Player   Nation    Pos        Squad  Long_Cmp%
+332   Maxwel Cornet   ci CIV  MF,FW     West Ham        0.0
+115      Danny Ings  eng ENG     FW     West Ham       12.5
+202  Jaidon Anthony  eng ENG     FW  Bournemouth       16.7
+
+
+
+
+
+
+
+              Player   Nation    Pos        Squad  Ast
+378    Ollie Watkins  eng ENG     FW  Aston Villa   13
+101      Cole Palmer  eng ENG  FW,MF      Chelsea   11
+68   Brennan Johnson  wls WAL     FW    Tottenham   10
+
+             Player   Nation    Pos           Squad  Ast
+266   Kieffer Moore  wls WAL  FW,MF     Bournemouth    0
+75     Bénie Traoré   ci CIV  FW,MF   Sheffield Utd    0
+434  Sofyan Amrabat   ma MAR  MF,DF  Manchester Utd    0
+
+
+
+
+
+
+
+              Player  Nation    Pos           Squad   xAG
+70   Bruno Fernandes  pt POR  MF,FW  Manchester Utd  11.8
+341    Mohamed Salah  eg EGY     FW       Liverpool  11.8
+436    Son Heung-min  kr KOR     FW       Tottenham  11.8
+
+             Player   Nation Pos        Squad  xAG
+1    Aaron Ramsdale  eng ENG  GK      Arsenal  0.0
+35   Angelo Ogbonna   it ITA  DF     West Ham  0.0
+202  Jaidon Anthony  eng ENG  FW  Bournemouth  0.0
+
+
+
+
+
+
+
+              Player   Nation    Pos           Squad  Expected_xA
+312  Martin Ødegaard   no NOR     MF         Arsenal         11.2
+74       Bukayo Saka  eng ENG     FW         Arsenal         11.0
+70   Bruno Fernandes   pt POR  MF,FW  Manchester Utd         10.2
+
+             Player   Nation Pos           Squad  Expected_xA
+1    Aaron Ramsdale  eng ENG  GK         Arsenal          0.0
+202  Jaidon Anthony  eng ENG  FW     Bournemouth          0.0
+418   Sam Johnstone  eng ENG  GK  Crystal Palace          0.0
+
+
+
+
+
+
+
+            Player   Nation    Pos            Squad  Expected_A-xAG
+378  Ollie Watkins  eng ENG     FW      Aston Villa             5.7
+409          Rodri   es ESP     MF  Manchester City             5.1
+386     Pedro Neto   pt POR  FW,MF           Wolves             4.6
+
+                 Player  Nation    Pos           Squad  Expected_A-xAG
+124    Dejan Kulusevski  se SWE  FW,MF       Tottenham            -4.7
+132  Dominik Szoboszlai  hu HUN     MF       Liverpool            -3.8
+70      Bruno Fernandes  pt POR  MF,FW  Manchester Utd            -3.8
+
+
+
+
+
+
+
+              Player  Nation    Pos           Squad   KP
+70   Bruno Fernandes  pt POR  MF,FW  Manchester Utd  114
+384      Pascal Groß  de GER  MF,DF        Brighton  103
+312  Martin Ødegaard  no NOR     MF         Arsenal  102
+
+               Player   Nation Pos     Squad  KP
+118        David Raya   es ESP  GK   Arsenal   0
+492  Łukasz Fabiański   pl POL  GK  West Ham   0
+260   Kalvin Phillips  eng ENG  MF  West Ham   0
+
+
+
+
+
+
+
+          Player   Nation    Pos            Squad  1/3
+409        Rodri   es ESP     MF  Manchester City  378
+384  Pascal Groß   de GER  MF,DF         Brighton  242
+123  Declan Rice  eng ENG     MF          Arsenal  240
+
+                   Player  Nation Pos            Squad  1/3
+359           Neal Maupay  fr FRA  FW          Everton    0
+370  Odisseas Vlachodimos  gr GRE  GK  Nott'ham Forest    0
+355         Nathan Fraser  ie IRL  FW           Wolves    0
+
+
+
+
+
+
+
+              Player   Nation    Pos           Squad  PPA
+312  Martin Ødegaard   no NOR     MF         Arsenal  130
+70   Bruno Fernandes   pt POR  MF,FW  Manchester Utd   89
+74       Bukayo Saka  eng ENG     FW         Arsenal   73
+
+                   Player  Nation Pos            Squad  PPA
+359           Neal Maupay  fr FRA  FW          Everton    0
+370  Odisseas Vlachodimos  gr GRE  GK  Nott'ham Forest    0
+50        Bart Verbruggen  nl NED  GK         Brighton    0
+
+
+
+
+
+
+
+               Player   Nation    Pos       Squad  CrsPA
+384       Pascal Groß   de GER  MF,DF    Brighton     27
+42   Antonee Robinson   us USA     DF      Fulham     26
+18      Alfie Doughty  eng ENG     DF  Luton Town     24
+
+                   Player  Nation Pos            Squad  CrsPA
+359           Neal Maupay  fr FRA  FW          Everton      0
+370  Odisseas Vlachodimos  gr GRE  GK  Nott'ham Forest      0
+50        Bart Verbruggen  nl NED  GK         Brighton      0
+
+
+
+
+
+
+
+              Player  Nation    Pos            Squad  PrgP
+409            Rodri  es ESP     MF  Manchester City   376
+312  Martin Ødegaard  no NOR     MF          Arsenal   344
+384      Pascal Groß  de GER  MF,DF         Brighton   302
+
+          Player  Nation Pos          Squad  PrgP
+359  Neal Maupay  fr FRA  FW        Everton     0
+408  Robin Olsen  se SWE  GK    Aston Villa     0
+193    Ivo Grbić  hr CRO  GK  Sheffield Utd     0
+
+
+
+
+
+
+
+          Player   Nation    Pos            Squad  Pass_Types_Live
+409        Rodri   es ESP     MF  Manchester City             3572
+280   Lewis Dunk  eng ENG     DF         Brighton             3005
+384  Pascal Groß   de GER  MF,DF         Brighton             2903
+
+           Player   Nation Pos    Squad  Pass_Types_Live
+277  Leon Chiwome  eng ENG  FW   Wolves               18
+359   Neal Maupay   fr FRA  FW  Everton               23
+14     Alex Iwobi   ng NGA  MF  Everton               34
+
+
+
+
+
+
+
+              Player   Nation Pos       Squad  Pass_Types_Dead
+242  Jordan Pickford  eng ENG  GK     Everton              496
+447  Thomas Kaminski   be BEL  GK  Luton Town              493
+18     Alfie Doughty  eng ENG  DF  Luton Town              489
+
+               Player   Nation    Pos            Squad  Pass_Types_Dead
+78     Calum Chambers  eng ENG  MF,DF      Aston Villa                0
+351    Nathan Redmond  eng ENG  FW,MF          Burnley                0
+90   Cheikhou Kouyaté   sn SEN     MF  Nott'ham Forest                0
+
+
+
+
+
+
+
+              Player   Nation Pos       Squad  Pass_Types_FK
+242  Jordan Pickford  eng ENG  GK     Everton            223
+309     Mark Flekken   nl NED  GK   Brentford            166
+447  Thomas Kaminski   be BEL  GK  Luton Town            152
+
+                 Player  Nation    Pos       Squad  Pass_Types_FK
+10         Adama Traoré  es ESP  FW,MF      Fulham              0
+73            Bryan Gil  es ESP  FW,MF   Tottenham              0
+297  Mads Juel Andersen  dk DEN     DF  Luton Town              0
+
+
+
+
+
+
+
+              Player  Nation    Pos           Squad  Pass_Types_TB
+312  Martin Ødegaard  no NOR     MF         Arsenal             39
+70   Bruno Fernandes  pt POR  MF,FW  Manchester Utd             30
+290    Lucas Paquetá  br BRA  FW,MF        West Ham             30
+
+                 Player  Nation    Pos       Squad  Pass_Types_TB
+10         Adama Traoré  es ESP  FW,MF      Fulham              0
+73            Bryan Gil  es ESP  FW,MF   Tottenham              0
+297  Mads Juel Andersen  dk DEN     DF  Luton Town              0
+
+
+
+
+
+
+
+                     Player   Nation Pos            Squad  Pass_Types_Sw
+153            Fabian Schär   ch SUI  DF    Newcastle Utd             41
+409                   Rodri   es ESP  MF  Manchester City             36
+461  Trent Alexander-Arnold  eng ENG  DF        Liverpool             32
+
+             Player   Nation    Pos          Squad  Pass_Types_Sw
+483  Yasser Larouci   dz ALG     DF  Sheffield Utd              0
+73        Bryan Gil   es ESP  FW,MF      Tottenham              0
+329        Max Lowe  eng ENG  DF,MF  Sheffield Utd              0
+
+
+
+
+
+
+
+            Player   Nation    Pos       Squad  Pass_Types_Crs
+18   Alfie Doughty  eng ENG     DF  Luton Town             340
+384    Pascal Groß   de GER  MF,DF    Brighton             238
+134  Dwight McNeil  eng ENG  MF,FW     Everton             229
+
+              Player   Nation Pos      Squad  Pass_Types_Crs
+272       Kurt Zouma   fr FRA  DF   West Ham               0
+469  Virgil van Dijk   nl NED  DF  Liverpool               0
+1     Aaron Ramsdale  eng ENG  GK    Arsenal               0
+
+
+
+
+
+
+
+              Player   Nation    Pos           Squad  Pass_Types_TI
+464  Tyrick Mitchell  eng ENG  DF,MF  Crystal Palace            347
+473  Vladimír Coufal   cz CZE     DF        West Ham            319
+387      Pedro Porro   es ESP     DF       Tottenham            295
+
+             Player   Nation Pos        Squad  Pass_Types_TI
+310    Mark Travers   ie IRL  GK  Bournemouth              0
+1    Aaron Ramsdale  eng ENG  GK      Arsenal              0
+35   Angelo Ogbonna   it ITA  DF     West Ham              0
+
+
+
+
+
+
+
+             Player   Nation    Pos           Squad  Pass_Types_CK
+18    Alfie Doughty  eng ENG     DF      Luton Town            151
+70  Bruno Fernandes   pt POR  MF,FW  Manchester Utd            151
+28  Andreas Pereira   br BRA     MF          Fulham            148
+
+              Player   Nation Pos            Squad  Pass_Types_CK
+126     Diego Carlos   br BRA  DF      Aston Villa              0
+441    Taiwo Awoniyi   ng NGA  FW  Nott'ham Forest              0
+259  Kalvin Phillips  eng ENG  MF  Manchester City              0
+
+
+
+
+
+
+
+            Player   Nation Pos        Squad  Corner_Kicks_In
+74     Bukayo Saka  eng ENG  FW      Arsenal               99
+281     Lewis Cook  eng ENG  MF  Bournemouth               81
+18   Alfie Doughty  eng ENG  DF   Luton Town               66
+
+              Player   Nation    Pos           Squad  Corner_Kicks_In
+224  Jeffrey Schlupp   gh GHA  FW,MF  Crystal Palace                0
+491   Đorđe Petrović   rs SRB     GK         Chelsea                0
+218    Jay Rodriguez  eng ENG     FW         Burnley                0
+
+
+
+
+
+
+
+              Player   Nation    Pos       Squad  Corner_Kicks_Out
+18     Alfie Doughty  eng ENG     DF  Luton Town                80
+28   Andreas Pereira   br BRA     MF      Fulham                74
+384      Pascal Groß   de GER  MF,DF    Brighton                57
+
+             Player   Nation Pos     Squad  Corner_Kicks_Out
+160     Fábio Silva   pt POR  FW    Wolves                 0
+423  Sasa Kalajdzic   at AUT  FW    Wolves                 0
+216    Jarrod Bowen  eng ENG  FW  West Ham                 0
+
+
+
+
+
+
+
+              Player   Nation    Pos           Squad  Corner_Kicks_Str
+381    Pablo Sarabia   es ESP  MF,FW          Wolves                10
+70   Bruno Fernandes   pt POR  MF,FW  Manchester Utd                 8
+267  Kieran Trippier  eng ENG     DF   Newcastle Utd                 8
+
+             Player   Nation    Pos          Squad  Corner_Kicks_Str
+125  Destiny Udogie   it ITA     DF      Tottenham                 0
+362       Nick Pope  eng ENG     GK  Newcastle Utd                 0
+101     Cole Palmer  eng ENG  FW,MF        Chelsea                 0
+
+
+
+
+
+
+
+          Player   Nation    Pos            Squad  Outcomes_Cmp
+409        Rodri   es ESP     MF  Manchester City          3365
+280   Lewis Dunk  eng ENG     DF         Brighton          2977
+384  Pascal Groß   de GER  MF,DF         Brighton          2774
+
+           Player   Nation Pos    Squad  Outcomes_Cmp
+277  Leon Chiwome  eng ENG  FW   Wolves            19
+359   Neal Maupay   fr FRA  FW  Everton            22
+14     Alex Iwobi   ng NGA  MF  Everton            27
+
+
+
+
+
+
+
+              Player  Nation    Pos           Squad  Outcomes_Off
+70   Bruno Fernandes  pt POR  MF,FW  Manchester Utd            23
+147   Enzo Fernández  ar ARG     MF         Chelsea            17
+312  Martin Ødegaard  no NOR     MF         Arsenal            16
+
+                     Player   Nation Pos          Squad  Outcomes_Off
+277            Leon Chiwome  eng ENG  FW         Wolves             0
+359             Neal Maupay   fr FRA  FW        Everton             0
+403  Rhys Norrington-Davies  wls WAL  DF  Sheffield Utd             0
+
+
+
+
+
+
+
+               Player   Nation    Pos           Squad  Outcomes_Blocks
+464   Tyrick Mitchell  eng ENG  DF,MF  Crystal Palace               70
+42   Antonee Robinson   us USA     DF          Fulham               68
+387       Pedro Porro   es ESP     DF       Tottenham               68
+
+          Player   Nation Pos        Squad  Outcomes_Blocks
+148    Eric Dier  eng ENG  DF    Tottenham                0
+160  Fábio Silva   pt POR  FW       Wolves                0
+188   Ionuț Radu   ro ROU  GK  Bournemouth                0
+
+
+
+
+
+
+
+              Player   Nation    Pos           Squad  SCA_SCA
+312  Martin Ødegaard   no NOR     MF         Arsenal      220
+70   Bruno Fernandes   pt POR  MF,FW  Manchester Utd      210
+74       Bukayo Saka  eng ENG     FW         Arsenal      188
+
+                 Player  Nation Pos          Squad  SCA_SCA
+188          Ionuț Radu  ro ROU  GK    Bournemouth        0
+311     Martin Dúbravka  sk SVK  GK  Newcastle Utd        0
+297  Mads Juel Andersen  dk DEN  DF     Luton Town        0
+
+
+
+
+
+
+
+              Player  Nation Pos            Squad  SCA_SCA90
+301    Manor Solomon  il ISR  FW        Tottenham       8.59
+14        Alex Iwobi  ng NGA  MF          Everton       7.77
+264  Kevin De Bruyne  be BEL  MF  Manchester City       7.36
+
+                 Player  Nation Pos          Squad  SCA_SCA90
+188          Ionuț Radu  ro ROU  GK    Bournemouth        0.0
+311     Martin Dúbravka  sk SVK  GK  Newcastle Utd        0.0
+297  Mads Juel Andersen  dk DEN  DF     Luton Town        0.0
+
+
+
+
+
+
+
+              Player   Nation    Pos           Squad  SCA_Types_PassLive
+312  Martin Ødegaard   no NOR     MF         Arsenal                 178
+70   Bruno Fernandes   pt POR  MF,FW  Manchester Utd                 143
+74       Bukayo Saka  eng ENG     FW         Arsenal                 137
+
+                 Player  Nation Pos          Squad  SCA_Types_PassLive
+188          Ionuț Radu  ro ROU  GK    Bournemouth                   0
+311     Martin Dúbravka  sk SVK  GK  Newcastle Utd                   0
+297  Mads Juel Andersen  dk DEN  DF     Luton Town                   0
+
+
+
+
+
+
+
+                Player   Nation    Pos     Squad  SCA_Types_PassDead
+384        Pascal Groß   de GER  MF,DF  Brighton                  54
+208  James Ward-Prowse  eng ENG     MF  West Ham                  51
+28     Andreas Pereira   br BRA     MF    Fulham                  48
+
+             Player   Nation    Pos            Squad  SCA_Types_PassDead
+451  Tim Iroegbunam  eng ENG     MF      Aston Villa                   0
+121      David Ozoh  eng ENG  MF,DF   Crystal Palace                   0
+157          Felipe   br BRA     DF  Nott'ham Forest                   0
+
+
+
+
+
+
+
+              Player  Nation    Pos            Squad  SCA_Types_TO
+342   Mohammed Kudus  gh GHA  FW,MF         West Ham            25
+363  Nicolas Jackson  sn SEN     FW          Chelsea            18
+225      Jeremy Doku  be BEL  FW,MF  Manchester City            17
+
+                   Player   Nation    Pos            Squad  SCA_Types_TO
+92           Chris Basham  eng ENG  DF,MF    Sheffield Utd             0
+370  Odisseas Vlachodimos   gr GRE     GK  Nott'ham Forest             0
+325           Matt Turner   us USA     GK  Nott'ham Forest             0
+
+
+
+
+
+
+
+            Player   Nation Pos        Squad  SCA_Types_Sh
+341  Mohamed Salah   eg EGY  FW    Liverpool            21
+378  Ollie Watkins  eng ENG  FW  Aston Villa            18
+291      Luis Díaz   co COL  FW    Liverpool            15
+
+              Player   Nation Pos            Squad  SCA_Types_Sh
+327        Matz Sels   be BEL  GK  Nott'ham Forest             0
+422   Santiago Bueno   uy URU  DF           Wolves             0
+462  Trevoh Chalobah  eng ENG  DF          Chelsea             0
+
+
+
+
+
+
+
+             Player   Nation    Pos           Squad  SCA_Types_Fld
+39   Anthony Gordon  eng ENG     FW   Newcastle Utd             13
+342  Mohammed Kudus   gh GHA  FW,MF        West Ham             12
+240     Jordan Ayew   gh GHA  FW,MF  Crystal Palace             12
+
+                Player   Nation Pos        Squad  SCA_Types_Fld
+82     Carlos Vinícius   br BRA  FW       Fulham              0
+145  Emiliano Martínez   ar ARG  GK  Aston Villa              0
+260    Kalvin Phillips  eng ENG  MF     West Ham              0
+
+
+
+
+
+
+
+                 Player  Nation Pos            Squad  SCA_Types_Def
+71      Bruno Guimarães  br BRA  MF    Newcastle Utd              6
+409               Rodri  es ESP  MF  Manchester City              6
+185  Idrissa Gana Gueye  sn SEN  MF          Everton              6
+
+                Player   Nation Pos          Squad  SCA_Types_Def
+145  Emiliano Martínez   ar ARG  GK    Aston Villa              0
+260    Kalvin Phillips  eng ENG  MF       West Ham              0
+475    Wes Foderingham  eng ENG  GK  Sheffield Utd              0
+
+
+
+
+
+
+
+             Player   Nation    Pos          Squad  GCA_GCA
+39   Anthony Gordon  eng ENG     FW  Newcastle Utd       29
+101     Cole Palmer  eng ENG  FW,MF        Chelsea       26
+378   Ollie Watkins  eng ENG     FW    Aston Villa       26
+
+              Player   Nation    Pos          Squad  GCA_GCA
+260  Kalvin Phillips  eng ENG     MF       West Ham        0
+475  Wes Foderingham  eng ENG     GK  Sheffield Utd        0
+235       John Fleck  sct SCO  MF,DF  Sheffield Utd        0
+
+
+
+
+
+
+
+                 Player   Nation    Pos            Squad  GCA_GCA90
+380          Oscar Bobb   no NOR  FW,MF  Manchester City       1.79
+191        Ivan Perišić   hr CRO     FW        Tottenham       1.75
+85   Carney Chukwuemeka  eng ENG  MF,FW          Chelsea       1.59
+
+             Player   Nation Pos          Squad  GCA_GCA90
+314   Mason Holgate  eng ENG  DF  Sheffield Utd        0.0
+401    Reiss Nelson  eng ENG  FW        Arsenal        0.0
+491  Đorđe Petrović   rs SRB  GK        Chelsea        0.0
+
+
+
+
+
+
+
+              Player   Nation    Pos            Squad  GCA_Types_PassLive
+101      Cole Palmer  eng ENG  FW,MF          Chelsea                  20
+312  Martin Ødegaard   no NOR     MF          Arsenal                  18
+409            Rodri   es ESP     MF  Manchester City                  17
+
+             Player   Nation Pos          Squad  GCA_Types_PassLive
+314   Mason Holgate  eng ENG  DF  Sheffield Utd                   0
+401    Reiss Nelson  eng ENG  FW        Arsenal                   0
+491  Đorđe Petrović   rs SRB  GK        Chelsea                   0
+
+
+
+
+
+
+
+                Player   Nation Pos     Squad  GCA_Types_PassDead
+208  James Ward-Prowse  eng ENG  MF  West Ham                   7
+103    Conor Gallagher  eng ENG  MF   Chelsea                   5
+123        Declan Rice  eng ENG  MF   Arsenal                   5
+
+                 Player  Nation Pos          Squad  GCA_Types_PassDead
+189           Issa Diop  fr FRA  DF         Fulham                   0
+311     Martin Dúbravka  sk SVK  GK  Newcastle Utd                   0
+297  Mads Juel Andersen  dk DEN  DF     Luton Town                   0
+
+
+
+
+
+
+
+              Player   Nation    Pos          Squad  GCA_Types_TO
+39    Anthony Gordon  eng ENG     FW  Newcastle Utd             5
+71   Bruno Guimarães   br BRA     MF  Newcastle Utd             4
+394  Raheem Sterling  eng ENG  FW,MF        Chelsea             4
+
+           Player   Nation Pos    Squad  GCA_Types_TO
+123   Declan Rice  eng ENG  MF  Arsenal             0
+210  James Garner  eng ENG  MF  Everton             0
+246   Josh Cullen   ie IRL  MF  Burnley             0
+
+
+
+
+
+
+
+             Player   Nation Pos            Squad  GCA_Types_Sh
+378   Ollie Watkins  eng ENG  FW      Aston Villa             7
+39   Anthony Gordon  eng ENG  FW    Newcastle Utd             4
+149  Erling Haaland   no NOR  FW  Manchester City             3
+
+                   Player   Nation    Pos           Squad  GCA_Types_Sh
+394       Raheem Sterling  eng ENG  FW,MF         Chelsea             0
+465  Valentino Livramento  eng ENG     DF   Newcastle Utd             0
+240           Jordan Ayew   gh GHA  FW,MF  Crystal Palace             0
+
+
+
+
+
+
+
+               Player   Nation    Pos          Squad  GCA_Types_Fld
+39     Anthony Gordon  eng ENG     FW  Newcastle Utd              5
+91   Chiedozie Ogbene   ie IRL  MF,DF     Luton Town              4
+397   Rayan Aït-Nouri   dz ALG  DF,MF         Wolves              3
+
+                Player  Nation    Pos        Squad  GCA_Types_Fld
+79       Calvin Bassey  ng NGA     DF       Fulham              0
+146          Enes Ünal  tr TUR  FW,MF  Bournemouth              0
+470  Vitaliy Mykolenko  ua UKR     DF      Everton              0
+
+
+
+
+
+
+
+           Player   Nation    Pos           Squad  GCA_Types_Def
+210  James Garner  eng ENG     MF         Everton              2
+101   Cole Palmer  eng ENG  FW,MF         Chelsea              2
+43         Antony   br BRA     FW  Manchester Utd              2
+
+              Player  Nation    Pos           Squad  GCA_Types_Def
+397  Rayan Aït-Nouri  dz ALG  DF,MF          Wolves              0
+100       Cody Gakpo  nl NED  FW,MF       Liverpool              0
+240      Jordan Ayew  gh GHA  FW,MF  Crystal Palace              0
+
+
+
+
+
+
+
+             Player  Nation Pos          Squad  Tackles_Tkl
+248   João Palhinha  pt POR  MF         Fulham          152
+249      João Gomes  br BRA  MF         Wolves          128
+468  Vinicius Souza  br BRA  MF  Sheffield Utd          125
+
+           Player  Nation Pos          Squad  Tackles_Tkl
+310  Mark Travers  ie IRL  GK    Bournemouth            0
+193     Ivo Grbić  hr CRO  GK  Sheffield Utd            0
+408   Robin Olsen  se SWE  GK    Aston Villa            0
+
+
+
+
+
+
+
+             Player  Nation Pos          Squad  Tackles_TklW
+468  Vinicius Souza  br BRA  MF  Sheffield Utd            76
+248   João Palhinha  pt POR  MF         Fulham            75
+249      João Gomes  br BRA  MF         Wolves            74
+
+           Player  Nation Pos          Squad  Tackles_TklW
+310  Mark Travers  ie IRL  GK    Bournemouth             0
+193     Ivo Grbić  hr CRO  GK  Sheffield Utd             0
+408   Robin Olsen  se SWE  GK    Aston Villa             0
+
+
+
+
+
+
+
+              Player   Nation    Pos           Squad  Tackles_Def3rd
+248    João Palhinha   pt POR     MF          Fulham              80
+464  Tyrick Mitchell  eng ENG  DF,MF  Crystal Palace              75
+249       João Gomes   br BRA     MF          Wolves              67
+
+           Player  Nation Pos          Squad  Tackles_Def3rd
+310  Mark Travers  ie IRL  GK    Bournemouth               0
+193     Ivo Grbić  hr CRO  GK  Sheffield Utd               0
+408   Robin Olsen  se SWE  GK    Aston Villa               0
+
+
+
+
+
+
+
+                  Player  Nation Pos          Squad  Tackles_Mid3rd
+248        João Palhinha  pt POR  MF         Fulham              60
+468       Vinicius Souza  br BRA  MF  Sheffield Utd              51
+17   Alexis Mac Allister  ar ARG  MF      Liverpool              50
+
+           Player  Nation Pos          Squad  Tackles_Mid3rd
+310  Mark Travers  ie IRL  GK    Bournemouth               0
+193     Ivo Grbić  hr CRO  GK  Sheffield Utd               0
+408   Robin Olsen  se SWE  GK    Aston Villa               0
+
+
+
+
+
+
+
+               Player   Nation    Pos        Squad  Tackles_Att3rd
+124  Dejan Kulusevski   se SWE  FW,MF    Tottenham              23
+74        Bukayo Saka  eng ENG     FW      Arsenal              20
+413     Ryan Christie  sct SCO     MF  Bournemouth              17
+
+           Player  Nation Pos          Squad  Tackles_Att3rd
+310  Mark Travers  ie IRL  GK    Bournemouth               0
+193     Ivo Grbić  hr CRO  GK  Sheffield Utd               0
+408   Robin Olsen  se SWE  GK    Aston Villa               0
+
+
+
+
+
+
+
+                  Player  Nation Pos      Squad  Challenges_Tkl
+248        João Palhinha  pt POR  MF     Fulham             103
+387          Pedro Porro  es ESP  DF  Tottenham              62
+17   Alexis Mac Allister  ar ARG  MF  Liverpool              59
+
+           Player  Nation Pos          Squad  Challenges_Tkl
+310  Mark Travers  ie IRL  GK    Bournemouth               0
+193     Ivo Grbić  hr CRO  GK  Sheffield Utd               0
+408   Robin Olsen  se SWE  GK    Aston Villa               0
+
+
+
+
+
+
+
+                  Player  Nation Pos      Squad  Challenges_Att
+248        João Palhinha  pt POR  MF     Fulham             152
+17   Alexis Mac Allister  ar ARG  MF  Liverpool             125
+387          Pedro Porro  es ESP  DF  Tottenham             120
+
+           Player  Nation Pos        Squad  Challenges_Att
+310  Mark Travers  ie IRL  GK  Bournemouth               0
+408   Robin Olsen  se SWE  GK  Aston Villa               0
+62     Bernd Leno  de GER  GK       Fulham               0
+
+
+
+
+
+
+
+              Player   Nation Pos           Squad  Challenges_Tkl%
+242  Jordan Pickford  eng ENG  GK         Everton            100.0
+38   Anthony Martial   fr FRA  FW  Manchester Utd            100.0
+44    Arijanet Muric   xk KVX  GK         Burnley            100.0
+
+             Player   Nation    Pos            Squad  Challenges_Tkl%
+78   Calum Chambers  eng ENG  MF,DF      Aston Villa              0.0
+137         Ederson   br BRA     GK  Manchester City              0.0
+111  Daniel Bentley  eng ENG     GK           Wolves              0.0
+
+
+
+
+
+
+
+                     Player   Nation Pos      Squad  Challenges_Lost
+322          Mathias Jensen   dk DEN  MF  Brentford               69
+17      Alexis Mac Allister   ar ARG  MF  Liverpool               66
+461  Trent Alexander-Arnold  eng ENG  DF  Liverpool               60
+
+            Player   Nation    Pos            Squad  Challenges_Lost
+310   Mark Travers   ie IRL     GK      Bournemouth                0
+266  Kieffer Moore  wls WAL  FW,MF      Bournemouth                0
+129   Divock Origi   be BEL     FW  Nott'ham Forest                0
+
+
+
+
+
+
+
+                  Player   Nation    Pos           Squad  Blocks_Blocks
+207      James Tarkowski  eng ENG     DF         Everton             82
+86              Casemiro   br BRA  MF,DF  Manchester Utd             74
+17   Alexis Mac Allister   ar ARG     MF       Liverpool             65
+
+            Player   Nation    Pos        Squad  Blocks_Blocks
+310   Mark Travers   ie IRL     GK  Bournemouth              0
+266  Kieffer Moore  wls WAL  FW,MF  Bournemouth              0
+408    Robin Olsen   se SWE     GK  Aston Villa              0
+
+
+
+
+
+
+
+              Player   Nation Pos          Squad  Blocks_Sh
+207  James Tarkowski  eng ENG  DF        Everton         56
+105     Craig Dawson  eng ENG  DF         Wolves         39
+153     Fabian Schär   ch SUI  DF  Newcastle Utd         38
+
+            Player   Nation    Pos        Squad  Blocks_Sh
+310   Mark Travers   ie IRL     GK  Bournemouth          0
+266  Kieffer Moore  wls WAL  FW,MF  Bournemouth          0
+408    Robin Olsen   se SWE     GK  Aston Villa          0
+
+
+
+
+
+
+
+                  Player   Nation    Pos           Squad  Blocks_Pass
+17   Alexis Mac Allister   ar ARG     MF       Liverpool           57
+464      Tyrick Mitchell  eng ENG  DF,MF  Crystal Palace           53
+42      Antonee Robinson   us USA     DF          Fulham           48
+
+            Player   Nation    Pos        Squad  Blocks_Pass
+310   Mark Travers   ie IRL     GK  Bournemouth            0
+266  Kieffer Moore  wls WAL  FW,MF  Bournemouth            0
+408    Robin Olsen   se SWE     GK  Aston Villa            0
+
+
+
+
+
+
+
+               Player   Nation Pos        Squad  Int
+42   Antonee Robinson   us USA  DF       Fulham   80
+281        Lewis Cook  eng ENG  MF  Bournemouth   65
+445       Teden Mengi  eng ENG  DF   Luton Town   57
+
+            Player   Nation    Pos        Squad  Int
+310   Mark Travers   ie IRL     GK  Bournemouth    0
+266  Kieffer Moore  wls WAL  FW,MF  Bournemouth    0
+408    Robin Olsen   se SWE     GK  Aston Villa    0
+
+
+
+
+
+
+
+               Player  Nation Pos          Squad  Tkl+Int
+248     João Palhinha  pt POR  MF         Fulham      198
+42   Antonee Robinson  us USA  DF         Fulham      173
+468    Vinicius Souza  br BRA  MF  Sheffield Utd      157
+
+            Player   Nation    Pos        Squad  Tkl+Int
+310   Mark Travers   ie IRL     GK  Bournemouth        0
+266  Kieffer Moore  wls WAL  FW,MF  Bournemouth        0
+408    Robin Olsen   se SWE     GK  Aston Villa        0
+
+
+
+
+
+
+
+               Player   Nation Pos            Squad  Clr
+228  Joachim Andersen   dk DEN  DF   Crystal Palace  207
+207   James Tarkowski  eng ENG  DF          Everton  191
+348           Murillo   br BRA  DF  Nott'ham Forest  188
+
+               Player   Nation    Pos        Squad  Clr
+266     Kieffer Moore  wls WAL  FW,MF  Bournemouth    0
+449  Thomas Strakosha   al ALB     GK    Brentford    0
+188        Ionuț Radu   ro ROU     GK  Bournemouth    0
+
+
+
+
+
+
+
+              Player   Nation Pos          Squad  Err
+475  Wes Foderingham  eng ENG  GK  Sheffield Utd    6
+118       David Raya   es ESP  GK        Arsenal    5
+247          José Sá   pt POR  GK         Wolves    5
+
+               Player   Nation    Pos           Squad  Err
+82    Carlos Vinícius   br BRA     FW          Fulham    0
+320    Matheus França   br BRA  MF,FW  Crystal Palace    0
+144  Emile Smith Rowe  eng ENG     MF         Arsenal    0
+
+
+
+
+
+
+
+          Player   Nation    Pos            Squad  Touches_Touches
+409        Rodri   es ESP     MF  Manchester City             3988
+384  Pascal Groß   de GER  MF,DF         Brighton             3534
+280   Lewis Dunk  eng ENG     DF         Brighton             3481
+
+           Player   Nation    Pos          Squad  Touches_Touches
+277  Leon Chiwome  eng ENG     FW         Wolves               39
+359   Neal Maupay   fr FRA     FW        Everton               40
+235    John Fleck  sct SCO  MF,DF  Sheffield Utd               49
+
+
+
+
+
+
+
+                Player  Nation Pos      Squad  Touches_DefPen
+62          Bernd Leno  de GER  GK     Fulham            1275
+309       Mark Flekken  nl NED  GK  Brentford            1268
+169  Guglielmo Vicario  it ITA  GK  Tottenham            1252
+
+            Player   Nation    Pos        Squad  Touches_DefPen
+266  Kieffer Moore  wls WAL  FW,MF  Bournemouth               0
+14      Alex Iwobi   ng NGA     MF      Everton               0
+282   Lewis Dobbin  eng ENG     MF      Everton               0
+
+
+
+
+
+
+
+                Player   Nation Pos      Squad  Touches_Def3rd
+280         Lewis Dunk  eng ENG  DF   Brighton            1811
+169  Guglielmo Vicario   it ITA  GK  Tottenham            1664
+62          Bernd Leno   de GER  GK     Fulham            1645
+
+            Player   Nation    Pos        Squad  Touches_Def3rd
+359    Neal Maupay   fr FRA     FW      Everton               1
+266  Kieffer Moore  wls WAL  FW,MF  Bournemouth               2
+14      Alex Iwobi   ng NGA     MF      Everton               5
+
+
+
+
+
+
+
+              Player  Nation Pos            Squad  Touches_Mid3rd
+409            Rodri  es ESP  MF  Manchester City            2337
+469  Virgil van Dijk  nl NED  DF        Liverpool            1757
+477   William Saliba  fr FRA  DF          Arsenal            1720
+
+             Player   Nation Pos           Squad  Touches_Mid3rd
+122  Dean Henderson  eng ENG  GK  Crystal Palace               0
+188      Ionuț Radu   ro ROU  GK     Bournemouth               0
+310    Mark Travers   ie IRL  GK     Bournemouth               0
+
+
+
+
+
+
+
+              Player   Nation    Pos            Squad  Touches_Att3rd
+74       Bukayo Saka  eng ENG     FW          Arsenal            1310
+390       Phil Foden  eng ENG  FW,MF  Manchester City            1211
+312  Martin Ødegaard   no NOR     MF          Arsenal            1173
+
+             Player   Nation Pos           Squad  Touches_Att3rd
+122  Dean Henderson  eng ENG  GK  Crystal Palace               0
+188      Ionuț Radu   ro ROU  GK     Bournemouth               0
+310    Mark Travers   ie IRL  GK     Bournemouth               0
+
+
+
+
+
+
+
+                 Player   Nation Pos           Squad  Touches_AttPen
+74          Bukayo Saka  eng ENG  FW         Arsenal             271
+12   Alejandro Garnacho   ar ARG  FW  Manchester Utd             248
+341       Mohamed Salah   eg EGY  FW       Liverpool             241
+
+             Player   Nation Pos           Squad  Touches_AttPen
+122  Dean Henderson  eng ENG  GK  Crystal Palace               0
+188      Ionuț Radu   ro ROU  GK     Bournemouth               0
+310    Mark Travers   ie IRL  GK     Bournemouth               0
+
+
+
+
+
+
+
+          Player   Nation    Pos            Squad  Touches_Live
+409        Rodri   es ESP     MF  Manchester City          3988
+384  Pascal Groß   de GER  MF,DF         Brighton          3533
+280   Lewis Dunk  eng ENG     DF         Brighton          3481
+
+           Player   Nation    Pos          Squad  Touches_Live
+277  Leon Chiwome  eng ENG     FW         Wolves            39
+359   Neal Maupay   fr FRA     FW        Everton            40
+235    John Fleck  sct SCO  MF,DF  Sheffield Utd            49
+
+
+
+
+
+
+
+             Player  Nation    Pos            Squad  Take-Ons_Att
+342  Mohammed Kudus  gh GHA  FW,MF         West Ham           221
+225     Jeremy Doku  be BEL  FW,MF  Manchester City           169
+317   Matheus Cunha  br BRA  FW,MF           Wolves           140
+
+                   Player   Nation Pos            Squad  Take-Ons_Att
+277          Leon Chiwome  eng ENG  FW           Wolves             0
+359           Neal Maupay   fr FRA  FW          Everton             0
+370  Odisseas Vlachodimos   gr GRE  GK  Nott'ham Forest             0
+
+
+
+
+
+
+
+              Player  Nation    Pos            Squad  Take-Ons_Succ
+342   Mohammed Kudus  gh GHA  FW,MF         West Ham            124
+225      Jeremy Doku  be BEL  FW,MF  Manchester City             87
+71   Bruno Guimarães  br BRA     MF    Newcastle Utd             72
+
+                   Player   Nation Pos            Squad  Take-Ons_Succ
+277          Leon Chiwome  eng ENG  FW           Wolves              0
+359           Neal Maupay   fr FRA  FW          Everton              0
+370  Odisseas Vlachodimos   gr GRE  GK  Nott'ham Forest              0
+
+
+
+
+
+
+
+              Player   Nation Pos           Squad  Take-Ons_Succ%
+242  Jordan Pickford  eng ENG  GK         Everton           100.0
+422   Santiago Bueno   uy URU  DF          Wolves           100.0
+33       André Onana   cm CMR  GK  Manchester Utd           100.0
+
+                 Player   Nation    Pos          Squad  Take-Ons_Succ%
+297  Mads Juel Andersen   dk DEN     DF     Luton Town             0.0
+235          John Fleck  sct SCO  MF,DF  Sheffield Utd             0.0
+59    Benoît Badiashile   fr FRA     DF        Chelsea             0.0
+
+
+
+
+
+
+
+               Player   Nation    Pos      Squad  Take-Ons_Tkld
+342    Mohammed Kudus   gh GHA  FW,MF   West Ham             77
+394   Raheem Sterling  eng ENG  FW,MF    Chelsea             70
+124  Dejan Kulusevski   se SWE  FW,MF  Tottenham             66
+
+                   Player   Nation Pos            Squad  Take-Ons_Tkld
+277          Leon Chiwome  eng ENG  FW           Wolves              0
+359           Neal Maupay   fr FRA  FW          Everton              0
+370  Odisseas Vlachodimos   gr GRE  GK  Nott'ham Forest              0
+
+
+
+
+
+
+
+              Player   Nation    Pos            Squad  Take-Ons_Tkld%
+417       Rúben Dias   pt POR     DF  Manchester City           100.0
+0    Aaron Cresswell  eng ENG  DF,FW         West Ham           100.0
+251       Joël Matip   cm CMR     DF        Liverpool           100.0
+
+                Player   Nation    Pos          Squad  Take-Ons_Tkld%
+235         John Fleck  sct SCO  MF,DF  Sheffield Utd             0.0
+59   Benoît Badiashile   fr FRA     DF        Chelsea             0.0
+19     Alfie Gilchrist  eng ENG     DF        Chelsea             0.0
+
+
+
+
+
+
+
+          Player   Nation    Pos            Squad  Carries_Carries
+409        Rodri   es ESP     MF  Manchester City             2513
+280   Lewis Dunk  eng ENG     DF         Brighton             2417
+384  Pascal Groß   de GER  MF,DF         Brighton             2284
+
+           Player   Nation    Pos          Squad  Carries_Carries
+277  Leon Chiwome  eng ENG     FW         Wolves               16
+235    John Fleck  sct SCO  MF,DF  Sheffield Utd               19
+359   Neal Maupay   fr FRA     FW        Everton               20
+
+
+
+
+
+
+
+         Player   Nation Pos            Squad  Carries_TotDist
+409       Rodri   es ESP  MF  Manchester City            11575
+417  Rúben Dias   pt POR  DF  Manchester City            10862
+280  Lewis Dunk  eng ENG  DF         Brighton            10752
+
+            Player   Nation    Pos          Squad  Carries_TotDist
+235     John Fleck  sct SCO  MF,DF  Sheffield Utd               81
+277   Leon Chiwome  eng ENG     FW         Wolves               86
+355  Nathan Fraser   ie IRL     FW         Wolves               88
+
+
+
+
+
+
+
+                 Player  Nation Pos            Squad  Carries_PrgDist
+417          Rúben Dias  pt POR  DF  Manchester City             6693
+409               Rodri  es ESP  MF  Manchester City             6408
+213  Jan Paul van Hecke  nl NED  DF         Brighton             6274
+
+                 Player   Nation    Pos        Squad  Carries_PrgDist
+355       Nathan Fraser   ie IRL     FW       Wolves               22
+274  Leander Dendoncker   be BEL     MF  Aston Villa               27
+293          Luke Berry  eng ENG  MF,DF   Luton Town               30
+
+
+
+
+
+
+
+                 Player   Nation    Pos            Squad  Carries_PrgC
+225         Jeremy Doku   be BEL  FW,MF  Manchester City           218
+12   Alejandro Garnacho   ar ARG     FW   Manchester Utd           178
+74          Bukayo Saka  eng ENG     FW          Arsenal           155
+
+                 Player   Nation    Pos            Squad  Carries_PrgC
+274  Leander Dendoncker   be BEL     MF      Aston Villa             0
+90     Cheikhou Kouyaté   sn SEN     MF  Nott'ham Forest             0
+78       Calum Chambers  eng ENG  MF,DF      Aston Villa             0
+
+
+
+
+
+
+
+                 Player  Nation Pos            Squad  Carries_1/3
+409               Rodri  es ESP  MF  Manchester City           88
+312     Martin Ødegaard  no NOR  MF          Arsenal           83
+12   Alejandro Garnacho  ar ARG  FW   Manchester Utd           83
+
+               Player   Nation Pos          Squad  Carries_1/3
+449  Thomas Strakosha   al ALB  GK      Brentford            0
+217      Jason Steele  eng ENG  GK       Brighton            0
+311   Martin Dúbravka   sk SVK  GK  Newcastle Utd            0
+
+
+
+
+
+
+
+                 Player  Nation    Pos            Squad  Carries_CPA
+225         Jeremy Doku  be BEL  FW,MF  Manchester City          147
+12   Alejandro Garnacho  ar ARG     FW   Manchester Utd          102
+164  Gabriel Martinelli  br BRA     FW          Arsenal           82
+
+               Player   Nation Pos          Squad  Carries_CPA
+449  Thomas Strakosha   al ALB  GK      Brentford            0
+217      Jason Steele  eng ENG  GK       Brighton            0
+311   Martin Dúbravka   sk SVK  GK  Newcastle Utd            0
+
+
+
+
+
+
+
+                   Player   Nation Pos           Squad  Carries_Mis
+131       Dominic Solanke  eng ENG  FW     Bournemouth          136
+221  Jean-Philippe Mateta   fr FRA  FW  Crystal Palace           89
+363       Nicolas Jackson   sn SEN  FW         Chelsea           87
+
+               Player   Nation Pos      Squad  Carries_Mis
+449  Thomas Strakosha   al ALB  GK  Brentford            0
+217      Jason Steele  eng ENG  GK   Brighton            0
+44     Arijanet Muric   xk KVX  GK    Burnley            0
+
+
+
+
+
+
+
+              Player   Nation    Pos        Squad  Carries_Dis
+342   Mohammed Kudus   gh GHA  FW,MF     West Ham           93
+290    Lucas Paquetá   br BRA  FW,MF     West Ham           81
+131  Dominic Solanke  eng ENG     FW  Bournemouth           81
+
+              Player   Nation Pos       Squad  Carries_Dis
+447  Thomas Kaminski   be BEL  GK  Luton Town            0
+212   James Trafford  eng ENG  GK     Burnley            0
+62        Bernd Leno   de GER  GK      Fulham            0
+
+
+
+
+
+
+
+          Player   Nation    Pos            Squad  Receiving_Rec
+409        Rodri   es ESP     MF  Manchester City           3242
+384  Pascal Groß   de GER  MF,DF         Brighton           2736
+280   Lewis Dunk  eng ENG     DF         Brighton           2681
+
+           Player   Nation    Pos          Squad  Receiving_Rec
+277  Leon Chiwome  eng ENG     FW         Wolves             18
+235    John Fleck  sct SCO  MF,DF  Sheffield Utd             27
+359   Neal Maupay   fr FRA     FW        Everton             28
+
+
+
+
+
+
+
+                 Player   Nation    Pos      Squad  Receiving_PrgR
+74          Bukayo Saka  eng ENG     FW    Arsenal             508
+124    Dejan Kulusevski   se SWE  FW,MF  Tottenham             388
+164  Gabriel Martinelli   br BRA     FW    Arsenal             345
+
+               Player   Nation Pos        Squad  Receiving_PrgR
+111    Daniel Bentley  eng ENG  GK       Wolves               0
+451    Tim Iroegbunam  eng ENG  MF  Aston Villa               0
+449  Thomas Strakosha   al ALB  GK    Brentford               0
+
+
+
+
+
+
+
+              Player   Nation Pos       Squad  Starts_Starts
+62        Bernd Leno   de GER  GK      Fulham             38
+242  Jordan Pickford  eng ENG  GK     Everton             38
+447  Thomas Kaminski   be BEL  GK  Luton Town             38
+
+              Player   Nation    Pos            Squad  Starts_Starts
+121       David Ozoh  eng ENG  MF,DF   Crystal Palace              0
+259  Kalvin Phillips  eng ENG     MF  Manchester City              0
+323     Matt Ritchie  sct SCO  FW,MF    Newcastle Utd              0
+
+
+
+
+
+
+
+              Player  Nation    Pos           Squad  Starts_Mn/Start
+463      Tyler Adams  us USA     MF     Bournemouth             90.0
+172  Hannibal Mejbri  tn TUN  MF,FW  Manchester Utd             90.0
+128      Diogo Dalot  pt POR     DF  Manchester Utd             90.0
+
+                     Player   Nation    Pos          Squad  Starts_Mn/Start
+403  Rhys Norrington-Davies  wls WAL     DF  Sheffield Utd             27.0
+456              Tom Davies  eng ENG     MF  Sheffield Utd             45.0
+60            Benson Manuel   ao ANG  MF,FW        Burnley             45.0
+
+
+
+
+
+
+
+             Player   Nation Pos    Squad  Starts_Compl
+62       Bernd Leno   de GER  GK   Fulham            38
+477  William Saliba   fr FRA  DF  Arsenal            38
+328      Max Kilman  eng ENG  DF   Wolves            38
+
+              Player   Nation    Pos            Squad  Starts_Compl
+121       David Ozoh  eng ENG  MF,DF   Crystal Palace             0
+259  Kalvin Phillips  eng ENG     MF  Manchester City             0
+323     Matt Ritchie  sct SCO  FW,MF    Newcastle Utd             0
+
+
+
+
+
+
+
+              Player   Nation    Pos       Squad  Subs_Subs
+392  Pierre Højbjerg   dk DEN     MF   Tottenham         28
+178   Harvey Elliott  eng ENG  MF,FW   Liverpool         23
+87    Cauley Woodrow  eng ENG  FW,MF  Luton Town         22
+
+              Player   Nation Pos     Squad  Subs_Subs
+62        Bernd Leno   de GER  GK    Fulham          0
+280       Lewis Dunk  eng ENG  DF  Brighton          0
+242  Jordan Pickford  eng ENG  GK   Everton          0
+
+
+
+
+
+
+
+             Player   Nation Pos           Squad  Subs_Mn/Sub
+39   Anthony Gordon  eng ENG  FW   Newcastle Utd         79.0
+9      Adam Wharton  eng ENG  MF  Crystal Palace         63.0
+111  Daniel Bentley  eng ENG  GK          Wolves         57.0
+
+            Player   Nation Pos      Squad  Subs_Mn/Sub
+55     Ben Godfrey  eng ENG  DF    Everton          1.0
+150  Ethan Pinnock   jm JAM  DF  Brentford          1.0
+51         Ben Mee  eng ENG  DF  Brentford          1.0
+
+
+
+
+
+
+
+               Player   Nation Pos      Squad  Subs_unSub
+111    Daniel Bentley  eng ENG  GK     Wolves          33
+449  Thomas Strakosha   al ALB  GK  Brentford          32
+1      Aaron Ramsdale  eng ENG  GK    Arsenal          31
+
+              Player   Nation Pos     Squad  Subs_unSub
+62        Bernd Leno   de GER  GK    Fulham           0
+280       Lewis Dunk  eng ENG  DF  Brighton           0
+242  Jordan Pickford  eng ENG  GK   Everton           0
+
+
+
+
+
+
+
+              Player   Nation    Pos            Squad  Team_Success_PPM
+448    Thomas Partey   gh GHA  MF,DF          Arsenal              2.71
+1     Aaron Ramsdale  eng ENG     GK          Arsenal              2.67
+264  Kevin De Bruyne   be BEL     MF  Manchester City              2.67
+
+            Player   Nation    Pos          Squad  Team_Success_PPM
+235     John Fleck  sct SCO  MF,DF  Sheffield Utd               0.0
+359    Neal Maupay   fr FRA     FW        Everton               0.0
+319  Matheus Nunes   pt POR     MF         Wolves               0.0
+
+
+
+
+
+
+
+             Player   Nation Pos            Squad  Team_Success_onG
+477  William Saliba   fr FRA  DF          Arsenal              91.0
+409           Rodri   es ESP  MF  Manchester City              87.0
+123     Declan Rice  eng ENG  MF          Arsenal              84.0
+
+            Player  Nation    Pos    Squad  Team_Success_onG
+359    Neal Maupay  fr FRA     FW  Everton               0.0
+14      Alex Iwobi  ng NGA     MF  Everton               0.0
+60   Benson Manuel  ao ANG  MF,FW  Burnley               0.0
+
+
+
+
+
+
+
+               Player  Nation Pos          Squad  Team_Success_onGA
+34   Anel Ahmedhodžić  ba BIH  DF  Sheffield Utd               89.0
+447   Thomas Kaminski  be BEL  GK     Luton Town               85.0
+170     Gustavo Hamer  nl NED  MF  Sheffield Utd               83.0
+
+              Player   Nation    Pos           Squad  Team_Success_onGA
+191     Ivan Perišić   hr CRO     FW       Tottenham                1.0
+172  Hannibal Mejbri   tn TUN  MF,FW  Manchester Utd                1.0
+401     Reiss Nelson  eng ENG     FW         Arsenal                1.0
+
+
+
+
+
+
+
+              Player  Nation Pos          Squad  Team_Success_(xG)_onxG
+469  Virgil van Dijk  nl NED  DF      Liverpool                    82.1
+477   William Saliba  fr FRA  DF        Arsenal                    76.1
+71   Bruno Guimarães  br BRA  MF  Newcastle Utd                    74.0
+
+              Player   Nation    Pos        Squad  Team_Success_(xG)_onxG
+60     Benson Manuel   ao ANG  MF,FW      Burnley                     0.5
+202   Jaidon Anthony  eng ENG     FW  Bournemouth                     0.6
+444  Tawanda Chirewa   zw ZIM  MF,FW       Wolves                     0.8
+
+
+
+
+
+
+
+              Player   Nation Pos           Squad  Team_Success_(xG)_onxGA
+447  Thomas Kaminski   be BEL  GK      Luton Town                     77.6
+33       André Onana   cm CMR  GK  Manchester Utd                     68.9
+328       Max Kilman  eng ENG  DF          Wolves                     67.7
+
+           Player  Nation Pos        Squad  Team_Success_(xG)_onxGA
+463   Tyler Adams  us USA  MF  Bournemouth                      1.5
+191  Ivan Perišić  hr CRO  FW    Tottenham                      1.5
+359   Neal Maupay  fr FRA  FW      Everton                      1.5
+
+
+
+
+
+
+
+               Player   Nation    Pos      Squad  Performance_Fls
+103   Conor Gallagher  eng ENG     MF    Chelsea               83
+249        João Gomes   br BRA     MF     Wolves               66
+124  Dejan Kulusevski   se SWE  FW,MF  Tottenham               54
+
+               Player  Nation Pos        Squad  Performance_Fls
+463       Tyler Adams  us USA  MF  Bournemouth                0
+447   Thomas Kaminski  be BEL  GK   Luton Town                0
+449  Thomas Strakosha  al ALB  GK    Brentford                0
+
+
+
+
+
+
+
+              Player  Nation    Pos           Squad  Performance_Fld
+71   Bruno Guimarães  br BRA     MF   Newcastle Utd              108
+240      Jordan Ayew  gh GHA  FW,MF  Crystal Palace               94
+342   Mohammed Kudus  gh GHA  FW,MF        West Ham               75
+
+            Player   Nation Pos        Squad  Performance_Fld
+359    Neal Maupay   fr FRA  FW      Everton                0
+333  Michael Keane  eng ENG  DF      Everton                0
+361           Neto   br BRA  GK  Bournemouth                0
+
+
+
+
+
+
+
+                    Player   Nation Pos      Squad  Performance_Off
+117           Darwin Núñez   uy URU  FW  Liverpool               33
+363        Nicolas Jackson   sn SEN  FW    Chelsea               28
+130  Dominic Calvert-Lewin  eng ENG  FW    Everton               24
+
+                 Player   Nation    Pos          Squad  Performance_Off
+179       Hjalmar Ekdal   se SWE     DF        Burnley                0
+456          Tom Davies  eng ENG     MF  Sheffield Utd                0
+85   Carney Chukwuemeka  eng ENG  MF,FW        Chelsea                0
+
+
+
+
+
+
+
+            Player   Nation    Pos       Squad  Performance_Crs
+18   Alfie Doughty  eng ENG     DF  Luton Town              340
+384    Pascal Groß   de GER  MF,DF    Brighton              238
+134  Dwight McNeil  eng ENG  MF,FW     Everton              229
+
+            Player   Nation Pos           Squad  Performance_Crs
+179  Hjalmar Ekdal   se SWE  DF         Burnley                0
+188     Ionuț Radu   ro ROU  GK     Bournemouth                0
+418  Sam Johnstone  eng ENG  GK  Crystal Palace                0
+
+
+
+
+
+
+
+                      Player   Nation Pos          Squad  Performance_OG
+194            Jack Robinson  eng ENG  DF  Sheffield Utd               2
+108           Daiki Hashioka   jp JPN  DF     Luton Town               2
+269  Konstantinos Mavropanos   gr GRE  DF       West Ham               2
+
+                 Player   Nation    Pos          Squad  Performance_OG
+134       Dwight McNeil  eng ENG  MF,FW        Everton               0
+164  Gabriel Martinelli   br BRA     FW        Arsenal               0
+39       Anthony Gordon  eng ENG     FW  Newcastle Utd               0
+
+
+
+
+
+
+
+              Player   Nation Pos            Squad  Performance_Recov
+71   Bruno Guimarães   br BRA  MF    Newcastle Utd                237
+409            Rodri   es ESP  MF  Manchester City                235
+413    Ryan Christie  sct SCO  MF      Bournemouth                231
+
+               Player  Nation Pos        Squad  Performance_Recov
+188        Ionuț Radu  ro ROU  GK  Bournemouth                  0
+310      Mark Travers  ie IRL  GK  Bournemouth                  1
+449  Thomas Strakosha  al ALB  GK    Brentford                  1
+
+
+
+
+
+
+
+                    Player   Nation Pos      Squad  Aerial_Duels_Won
+207        James Tarkowski  eng ENG  DF    Everton               140
+469        Virgil van Dijk   nl NED  DF  Liverpool               140
+130  Dominic Calvert-Lewin  eng ENG  FW    Everton               137
+
+            Player  Nation    Pos        Squad  Aerial_Duels_Won
+188     Ionuț Radu  ro ROU     GK  Bournemouth                 0
+26   Anass Zaroury  ma MAR  FW,MF      Burnley                 0
+301  Manor Solomon  il ISR     FW    Tottenham                 0
+
+
+
+
+
+
+
+                    Player   Nation    Pos        Squad  Aerial_Duels_Lost
+84          Carlton Morris  eng ENG  FW,MF   Luton Town                169
+130  Dominic Calvert-Lewin  eng ENG     FW      Everton                144
+131        Dominic Solanke  eng ENG     FW  Bournemouth                135
+
+             Player   Nation Pos        Squad  Aerial_Duels_Lost
+188      Ionuț Radu   ro ROU  GK  Bournemouth                  0
+217    Jason Steele  eng ENG  GK     Brighton                  0
+451  Tim Iroegbunam  eng ENG  MF  Aston Villa                  0
+
+
+
+
+
+
+
+             Player  Nation Pos            Squad  Aerial_Duels_Won%
+491  Đorđe Petrović  rs SRB  GK          Chelsea              100.0
+137         Ederson  br BRA  GK  Manchester City              100.0
+193       Ivo Grbić  hr CRO  GK    Sheffield Utd              100.0
+
+            Player  Nation    Pos      Squad  Aerial_Duels_Won%
+301  Manor Solomon  il ISR     FW  Tottenham                0.0
+26   Anass Zaroury  ma MAR  FW,MF    Burnley                0.0
+359    Neal Maupay  fr FRA     FW    Everton                0.0
+
+
+
+
+
+
+
